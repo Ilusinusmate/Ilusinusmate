@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <!--DEFINIÇÃO DE CHARSET E ESCALA-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--DEFINIÇÃO DO TÍTULO-->
+    <title>Portfólio - João Gabriel</title>
+    <!--DEFINIÇÃO DE FONTES USADAS NA CONSTRUÇÃO DO WEBSITE-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!--SOURCE CODE PRO-->
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,500&display=swap" rel="stylesheet">
+    <!--DOSIS-->
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap" rel="stylesheet">
+    <!--IMPORTAÇÃO DO BOOTSTRAP-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!--IMPORTAÇÃO DO ARQUIVO DE CSS-->
+    <link rel="stylesheet" href="src/style.css">
+
+    <!--IMPORTAÇÃO DO ARQUIVO DE JAVASCRIPT-->
+</head>
+
+<body>
+    <!--CRIAÇÃO DA SEÇÃO DO HEADER-->
+    <header>
+        <div class="px-3 py-2 text-white">
+            <div class="container">
+                <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+                    <!--TÍTULO-->
+                    <a id="title" href="#"
+                        class="d-flex align-items-center my-2 my-lg-0 me-lg-auto text-white text-decoration-none">
+                        PORTFÓLIO - João Gabriel
+                    </a>
+                    <button class="menu-toggle" id="menuToggle"><img style="margin-left: 5px;" width="50px"
+                            src="src/img/dropdown.png"></button>
+                    <!--CRIAÇÃO DA LISTA COM OS ÍCONES DO DROPDOWN-->
+                    <div class="menu" id="menu">
+                        <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
+                            <!--CADA LI REPRESENTA UM ELEMENTO DA LISTA-->
+                            <!--DIRECIONA PARA A SEÇÃO DE CERTIFICAÇÕES E LICENÇAS-->
+                            <li>
+                                <a href="#secaocontent1" class="menu-link nav-link text-white">
+                                    <img class="bi d-block mx-auto mb-1 icon" width="25" height="25"
+                                        src="src/img/medal.png">
+                                    premiações
+                                </a>
+                            </li>
+                            <!--DIRECIONA PARA A SEÇÃO DE MEUS PROJETOS CONCLUÍDOS-->
+                            <li>
+                                <a href="#secaocontent2" class="menu-link nav-link text-white">
+                                    <img class="bi d-block mx-auto mb-1 icon" width="25" height="25"
+                                        src="src/img/progress.png">
+                                    Em Andamento
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#secaocontent3" class="menu-link nav-link text-white">
+                                    <img class="bi d-block mx-auto mb-1 icon" width="25" height="25"
+                                        src="src/img/articles.png">
+                                    Artigos
+                                </a>
+                            </li>
+
+                            <!--DIRECIONA PARA A SEÇÃO DE MEUS PROJETOS EM ANDAMENTO-->
+                            <li>
+                                <a href="#secaocontent4" class="menu-link nav-link text-white">
+                                    <img class="bi d-block mx-auto mb-1 icon" width="25" height="25"
+                                        src="src/img/github.png">
+                                    Github
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!--FIM DA SEÇÃO DO HEADER-->
+
+    <br>
+
+    <!--CRIAÇÃO DA PRIMEIRA SEÇÃO DO SITE: APRESENTAÇÃO-->
+    <section id="secao1">
+        <div class="wrapper">
+            <!--PRIMEIRA COLUNA: MINHA FOTO-->
+            <div class="coluna sec1">
+                <img id="eu" src="src/img/eu.jpeg" alt="">
+            </div>
+            <!--SEGUNDA COLUNA: TÍTULO, SUBTÍTULO E REDES SOCIAIS-->
+            <div id="devweb" class="align-self-start mt-4 coluna">
+                <h1 id="devbackend" class="sec1">
+                    Desenvolvedor Web Backend
+                </h1>
+                <hr><br>
+                <h4 class="sec1">João Gabriel Salvador Paiva</h4>
+                <p id="telephone" class="sec1">
+                    <img width="45px" src="src/img/phone.png" alt="phone"> +55 (83)988636734
+                </p>
+                <br>
+                <!--ÍCONES DAS REDES SOCIAIS LINKADAS-->
+                <button onclick="socialMedia('instagram')" class="icon sec1" id="instagram" href="">
+                    <img width="40" height="40" src="src/img/instagram.png" alt="">
+                </button>
+                <button onclick="socialMedia('linkedin')" class="icon sec1" id="linkedin" href="">
+                    <img width="40" height="40" src="src/img/linkedin.png" alt="">
+                </button>
+                <button onclick="socialMedia('whatsapp')" class="icon sec1" id="whatsapp" href="">
+                    <img width="40" height="40" src="src/img/whatsapp.png" alt="">
+                </button>
+                <button onclick="socialMedia('github')" class="icon sec1" id="github" href="">
+                    <img width="40" height="40" src="src/img/github.png" alt="">
+                </button>
+            </div>
+        </div>
+    </section>
+    <!--FIM DA PRIMEIRA SEÇÃO DO SITE-->
+
+    <hr class="section">
+
+    <!--INICIO DA SEGUNDA SEÇÃO DO SITE: MINHAS CERTIFICAÇÕES-->
+    <!-- <section id="secaocontent1">
+        ADICIONAR CERTIFICADOS
+    </section> -->
+    <!--FIM DA SEGUNDA SEÇÃO DO SITE-->
+
+    <hr class="section">
+
+    <!--INICIO DA TERCEIRA SEÇÃO DO SITE: MEUS PROJETOS CONCLUÍDOS-->
+    <section id="secaocontent2">
+        <!--TÍTULO DA SEÇÃO-->
+        <div class="container toggle-heading" id="projectComplete">
+            <h2 class="myCompletedProjects" style="transform: translateX(-15px);">
+                <img class="dropdown-icon" width="50px"
+                    style="padding: 0; margin: 0; filter: invert(1); transform: translateY(-3px);"
+                    src="src/img/dropdown.png"> Minhas premiações:
+            </h2>
+            <div class="content" id="content">
+                <br>
+
+                <div class="container" id="certificado">
+                    <br><br>
+                    <!--SUBTÍTULO DA SEÇÃO-->
+                    <h3 class="myCompletedProjects">
+                        - Ouro: OPI 2023.
+                    </h3>
+                    <br>
+                    <!--DESCRIÇÃO DA SEÇÃO-->
+                    <p class="myCompletedProjects">
+                        Participação na Olimpíada Paraibana de Programaçãom
+                        competição de programação competitiva, individual, estadual.
+                    </p>
+
+                    <!--LINKS PARA ABRIR O SITE DITO-->
+                    <object class="myCertificates" data="src/documents/OURO-OPI-2023.pdf" type="application/pdf" width="100%"
+                        height="300px">
+                        <!--MENSAGEM DE ERRO PARA CASO O PDF NÃO CONSIGA SER EMBARCADO-->
+                        <p class="errorpdf">
+                            Navegador não suporta o pdf embarcado.
+                        </p>
+                    </object>
+                    <br><br>
+                    <!--LINK PARA BAIXAR O PDF-->
+                    <h5>
+                        <i class="myCertificates">
+                            Certificado OPI 2023
+                        </i>
+                        <br><br>
+                        <a class="myCertificates download" href="src/documents/OURO-OPI-2023.pdf"
+                            download="certificado de conclusao de curso tecnico em informatica">
+                            Baixar
+                        </a>
+                    </h5>
+                </div>
+                <br>
+                <div class="container" id="certificado">
+                    <br><br>
+                    <!--SUBTÍTULO DA SEÇÃO-->
+                    <h3 class="myCompletedProjects">
+                        - Prata: OPI Avançado Júnior.
+                    </h3>
+                    <br>
+                    <!--DESCRIÇÃO DA SEÇÃO-->
+                    <p class="myCompletedProjects">
+                        Participação na Olimpíada Paraibana de Programaçãom
+                        competição de programação competitiva, em trio, estadual.
+                    </p>
+
+                    <!--LINKS PARA ABRIR O SITE DITO-->
+                    <object class="myCertificates" data="src/documents/avancado-junior-prata2023.pdf" type="application/pdf" width="100%"
+                        height="300px">
+                        <!--MENSAGEM DE ERRO PARA CASO O PDF NÃO CONSIGA SER EMBARCADO-->
+                        <p class="errorpdf">
+                            Navegador não suporta o pdf embarcado.
+                        </p>
+                    </object>
+                    <br><br>
+                    <!--LINK PARA BAIXAR O PDF-->
+                    <h5>
+                        <i class="myCertificates">
+                            Certificado OPI Avançado Júnior
+                        </i>
+                        <br><br>
+                        <a class="myCertificates download" href="src/documents/avancado-junior-prata2023.pdf"
+                            download="certificado de conclusao de curso tecnico em informatica">
+                            Baixar
+                        </a>
+                    </h5>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--FIM DA TERCEIRA SEÇÃO DO SITE-->
+
+    <hr class="section">
+
+    <!--INICIO DA QUARTA SEÇÃO DO SITE: MEUS PROJETOS EM ANDAMENTO-->
+    <section id="secaocontent3">
+        <!--TÍTULO DA SEÇÃO-->
+        <div class="container toggle-heading" id="projectComplete">
+            <h2 class="myOnGoingProjects" style="transform: translateX(-15px);">
+                <img class="dropdown-icon" width="50px"
+                    style="padding: 0; margin: 0; filter: invert(1); transform: translateY(-3px);"
+                    src="src/img/dropdown.png"> Meus Projetos Em Andamento:
+            </h2>
+
+            <div class="content" id="content">
+                <br>
+
+                <div class="container" id="certificado">
+                    <br>
+                    <!--SUBTÍTULO DA SEÇÃO-->
+                    <h3 class="myOnGoingProjects">
+                        - Site para a WebRádio do IFPB Campina Grande.
+                    </h3>
+                    <br>
+                    <!--DESCRIÇÃO DA SEÇÃO-->
+                    <p class="myOnGoingProjects">
+                        Este site está sendo produzido com o intuito de armazenar as postagens e transmissões feitas
+                        pelo órgão de rádio do Instituto Federal da Paraíba - Campus Campina Grande.
+                    </p>
+
+                    <!--LINKS PARA ABRIR O SITE DITO-->
+                    <button target="_blank" onclick="abrir('https://github.com/Ilusinusmate')" id="acessar"
+                        class="download myOnGoingProjects">
+                        Acessar
+                    </button>
+                </div>
+                <hr class="section">
+
+                <div class="container" id="certificado">
+                    <br>
+                    <!--SUBTÍTULO DA SEÇÃO-->
+                    <h3 class="myOnGoingProjects">
+                        - Aplicação Web para o ECIT de Boqueirão.
+                    </h3>
+                    <br>
+                    <!--DESCRIÇÃO DA SEÇÃO-->
+                    <p class="myOnGoingProjects">
+                        Este webapp está sendo produzido na intenção de informatizar e automatizar as tarefas dos
+                        funcionários e alunos da Escola Cidadã Integral Técnica da cidade de Boqueirão.
+                    </p>
+
+                    <!--LINKS PARA ABRIR O SITE DITO-->
+                    <button target="_blank" onclick="abrir('https://github.com/Ilusinusmate')" id="acessar"
+                        class="download myOnGoingProjects">
+                        Acessar
+                    </button>
+                </div>
+                <hr class="section">
+
+                <div class="container" id="certificado">
+                    <br>
+
+                    <!--SUBTÍTULO DA SEÇÃO-->
+                    <h3 class="myOnGoingProjects">
+                        - Empório Sertanejo.
+                    </h3>
+                    <br>
+                    <div>
+                        <iframe src="https://ilusinusmate.github.io/emporio_sertanejo" width="100%" height="500"
+                            frameborder="0"></iframe>
+                    </div>
+                    <br>
+                    <!--DESCRIÇÃO DA SEÇÃO-->
+                    <p class="myOnGoingProjects">
+                        Este site está sendo produzido para a loja Empório Sertanejo com o intuito de divulgar e
+                        realizar os serviços eletrônicos que a entidade necessita.
+                    </p>
+
+                    <!--LINKS PARA ABRIR O SITE DITO-->
+                    <button target="_blank" onclick="abrir('https://ilusinusmate.github.io/emporio_sertanejo')"
+                        id="acessar" class="myOnGoingProjects download">
+                        Acessar
+                    </button>
+                    <button target="_blank" onclick="abrir('https://github.com/ilusinusmate/emporio_sertanejo')"
+                        id="acessar" class="myOnGoingProjects download">
+                        Repositório
+                    </button>
+                </div>
+
+                <hr class="section">
+
+            </div>
+        </div>
+    </section>
+    <!--FIM DA QUARTA SEÇÃO DO SITE-->
+
+    <hr class="section">
+
+    <section id="secaocontent4">
+        <!--TÍTULO DA SEÇÃO-->
+        <div class="container toggle-heading" id="projectComplete">
+            <h2 class="myCertificates" style="transform: translateX(-15px);">
+                <img class="dropdown-icon" width="50px"
+                    style="padding: 0; margin: 0; filter: invert(1); transform: translateY(-3px);"
+                    src="src/img/dropdown.png"> Meus Artigos:
+            </h2>
+
+            <div class="content" id="content">
+                <br>
+                <div class="container myCertificates" id="certificado">
+                    <br>
+                    <!--SUBTÍTULO DA SEÇÃO-->
+                    <h3 class="myCertificates">
+                        - V SIMPIF.
+                    </h3>
+                    <br>
+                    <!--DESCRIÇÃO DA SEÇÃO-->
+                    <p class="myCertificates">
+                        Produção e apresentação de Artigo no Simpósio de Inovação e Pós Graduação dos Institutos Federais,
+                        levando o prêmio de Melhor Artigo na categoria Iniciação Científica Tecnológica - Tecnologia da Informação e comunicação
+                    </p>
+                    <!--LINK PARA EMBARCAR O PDF-->
+                    <object class="myCertificates" data="src/documents/SIMPIF-2023.pdf" type="application/pdf"
+                        width="100%" height="300px">
+                        <!--MENSAGEM DE ERRO PARA CASO O PDF NÃO CONSIGA SER EMBARCADO-->
+                        <p class="errorpdf">
+                            Navegador não suporta o pdf embarcado.
+                        </p>
+                    </object>
+                    <br><br>
+                    <!--LINK PARA BAIXAR O PDF-->
+                    <h5>
+                        <i class="myCertificates">
+                            Certificado de apresentação
+                        </i>
+                        <br><br>
+                        <a class="download myCertificates" href="src/documents/SIMPIF-2023.pdf"
+                            download="certificado de conclusao de curso tecnico em informatica">
+                            Baixar
+                        </a>
+                    </h5>
+                    <br><br>
+                    <object class="myCertificates" data="src/documents/artigo-simpif-2023.pdf" type="application/pdf"
+                        width="100%" height="300px">
+                        <!--MENSAGEM DE ERRO PARA CASO O PDF NÃO CONSIGA SER EMBARCADO-->
+                        <p class="errorpdf">
+                            Navegador não suporta o pdf embarcado.
+                        </p>
+                    </object>
+                    <br><br>
+                    <!--LINK PARA BAIXAR O PDF-->
+                    <h5>
+                        <i class="myCertificates">
+                            Artigo apresentado
+                        </i>
+                        <br><br>
+                        <a class="download myCertificates" href="src/documents/artigo-simpif-2023.pdf"
+                            download="certificado de conclusao de curso tecnico em informatica">
+                            Baixar
+                        </a>
+                    </h5>
+                </div>
+                <br><br>
+                <hr width="70%" style="margin: auto;">
+
+                <!--CERTIFICADO DE PARTICIPAÇÃO NA BSIDESJP-->
+                <div class="container myCertificates" id="certificado">
+                    <br>
+                    <!--SUBTÍTULO DA SEÇÃO-->
+                    <h3 class="myCertificates">
+                        - Conedu 2023.
+                    </h3>
+                    <br>
+                    <!--DESCRIÇÃO DA SEÇÃO-->
+                    <p class="myCertificates">
+                        Produção e apresentação de artigo no Congresso Nacional de Educação.
+                    </p>
+                    <!--LINK PARA EMBARCAR O PDF-->
+                    <object class="myCertificates" data="src/documents/CONEDU-2023.pdf" type="application/pdf" width="100%"
+                        height="300px">
+                        <!--MENSAGEM DE ERRO PARA CASO O PDF NÃO CONSIGA SER EMBARCADO-->
+                        <p class="errorpdf">
+                            Navegador não suporta o pdf embarcado.
+                        </p>
+                    </object>
+                    <br><br>
+                    <!--LINK PARA BAIXAR O PDF-->
+                    <h5>
+                        <i class="myCertificates">
+                            Certificado de Participação do Conedu 2023
+                        </i>
+                        <br><br>
+                        <a class="myCertificates download" href="src/documents/CONEDU-2023.pdf"
+                            download="certificado de conclusao de curso tecnico em informatica">
+                            Baixar
+                        </a>
+                    </h5>
+                    <br><br>
+                    <object class="myCertificates" data="src/documents/artigo-conedu-2023.pdf" type="application/pdf" width="100%"
+                        height="300px">
+                        <!--MENSAGEM DE ERRO PARA CASO O PDF NÃO CONSIGA SER EMBARCADO-->
+                        <p class="errorpdf">
+                            Navegador não suporta o pdf embarcado.
+                        </p>
+                    </object>
+                    <br><br>
+                    <!--LINK PARA BAIXAR O PDF-->
+                    <h5>
+                        <i class="myCertificates">
+                            Artigo Apresentado
+                        </i>
+                        <br><br>
+                        <a class="myCertificates download" href="src/documents/artigo-conedu-2023.pdf"
+                            download="certificado de conclusao de curso tecnico em informatica">
+                            Baixar
+                        </a>
+                    </h5>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <hr class="section">
+
+    <!--INICIO DA QUINTA SEÇÃO DO SITE-->
+    <section id="secaocontent5x     ">
+        <div class="container toggle-heading" id="projectComplete">
+            <h2 class="myCertificates" style="transform: translateX(-15px);">
+                <img class="dropdown-icon" width="50px"
+                    style="padding: 0; margin: 0; filter: invert(1); transform: translateY(-3px);"
+                    src="src/img/dropdown.png"> Minhas Contribuições no Github:
+            </h2>
+            <div class="content" id="content">
+                <br>
+                <div class="contributions">
+                    <div id="gh" data-login="Ilusinusmate" target="_blank"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--FIM DA QUINTA SEÇÃO DO SITE-->
+
+    <button onclick="topFunction()" id="btnVoltarAoTopo" title="Voltar ao Topo"><img width="30px"
+            src="src/img/arrowup.png" alt="seta para cima"></button>
+
+    <!--SCRIPTS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <script src="src/script.js"></script>
+    <br><br><br><br>
+</body>
+
+</html>
