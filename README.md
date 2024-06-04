@@ -1,10 +1,8 @@
-<h1 align="center">Olá, meu nome é João Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">Hello, I'm João Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 ## :woman_technologist: &nbsp; Backend Developer :
 
-I'm a Back-end Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Brasil.
-
-- 📚 Studying at IFPB in Campina Grande.
+- 📚 Studying at IFPB in Campina Grande-PB.
 - ⚡ Working in projects inside and oustside IFPB. 
 - 📫 How to get in contact: &nbsp; https://br.linkedin.com/in/joao-gabriel-salvador-paiva-805283286
 
