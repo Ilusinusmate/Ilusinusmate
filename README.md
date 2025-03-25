@@ -2,8 +2,9 @@
 
 ## :woman_technologist: &nbsp; Backend Developer :
 
-- 📚 Studying at IFPB in Campina Grande-PB.
-- ⚡ Working in projects inside and oustside IFPB. 
+- 📚 Graduated at IFPB in Campina Grande-PB.
+- 📚 Studying at UFCG in Campina Grande-PB.
+- ⚡ Working in projects inside and oustside IFPB and UFCG. 
 - 📫 How to get in contact: &nbsp; https://br.linkedin.com/in/joao-gabriel-salvador-paiva-805283286
 
 ---
