@@ -3,6 +3,13 @@
 Bullets já no formato "ação + escopo + resultado", prontos para copiar. Marcadores de perfil:
 `[BACK]` `[MOB]` `[FULL]` `[IA]` `[INFRA]` `[LID]` (liderança) `[ACAD]`.
 
+## Idiomas
+
+- `[FULL]` Inglês **avançado / profissional** (~85% autoavaliado), suficiente para trabalho técnico,
+  leitura, escrita, documentação e comunicação profissional.
+- `[FULL]` Libras **intermediário (pós-básico)**, com capacidade de conversar, apresentar e se
+  comunicar bem, apesar de vocabulário de sinais limitado.
+
 ## Logon Informática
 
 - `[MOB]` `[LID]` Lidero o setor de desenvolvimento mobile, sendo o único desenvolvedor do app

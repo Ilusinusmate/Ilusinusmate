@@ -66,9 +66,20 @@ coluna do LinkedIn.
 | Libras | **Básico** | compreende, fala, lê e escreve razoavelmente | Professional Working Proficiency |
 | Espanhol | não listado | não listado | Limited Working Proficiency |
 
-⚠ **Espanhol** aparece apenas no CV em PDF. ⚠ A diferença em **Libras** (básico vs. *professional
-working*) e em **inglês** (avançado vs. *full professional*) precisa de uma definição sua antes de ir
-para um CV novo.
+### Definição do próprio João (27/08/2026)
+
+- **Inglês — Avançado / profissional (~85% autoavaliado).** Suficiente para trabalho técnico:
+  leitura, escrita, documentação e comunicação profissional. Deliberadamente não declarado como
+  fluente/nativo para não gerar expectativa acima do real.
+- **Libras — Intermediário (pós-básico).** Capaz de conversar, apresentar e se comunicar bem, com
+  vocabulário de sinais limitado; convívio com familiares surdos. Não é "básico" como consta no
+  LinkedIn nem *Professional Working* como consta no CV em PDF.
+- **Português — nativo.**
+- ⚠ **Espanhol — básico / *limited working*.** Só consta no CV em PDF e não foi confirmado pelo
+  usuário.
+
+Essa definição foi dada pelo próprio João e é a redação a usar em currículos; as classificações
+divergentes do LinkedIn, Lattes e CV em PDF ficam registradas apenas como histórico.
 
 ## Cursos e trilhas complementares
 

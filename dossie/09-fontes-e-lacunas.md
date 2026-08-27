@@ -24,23 +24,27 @@
 1. **Curso técnico** — três datas: LinkedIn **mar/2022–dez/2024**, CV em PDF **04/2022–12/2024**
    e Lattes **2022–2025**. O texto do próprio Lattes explica que a computação veio de olimpíadas,
    pesquisa, extensão e minicursos; manter essa redação para evitar contradição.
-2. **Níveis de idioma** — LinkedIn: inglês avançado e Libras básico; Lattes: inglês "compreende,
-   fala, lê e escreve bem" e Libras "razoavelmente"; CV em PDF: inglês *Full Professional* e Libras
-   *Professional Working*.
-3. **Espanhol** — aparece somente no CV em PDF, como *Limited Working Proficiency*.
-4. **OPI** — o CV cita "campeão paraibano 2023–2024", enquanto o Lattes registra campeão em 2023 e
+2. **Espanhol** — aparece somente no CV em PDF, como *Limited Working Proficiency*, e permanece
+   não confirmado pelo usuário.
+3. **OPI** — o CV cita "campeão paraibano 2023–2024", enquanto o Lattes registra campeão em 2023 e
    vice em Avançado Júnior em 2023; o resultado de 2024 permanece a confirmar.
-5. **OPI Avançado Júnior** — a prata de 2023 e o ouro de 2026 provavelmente são edições distintas,
+4. **OPI Avançado Júnior** — a prata de 2023 e o ouro de 2026 provavelmente são edições distintas,
    mas falta confirmar se são edições diferentes ou correção de registro.
-6. **Ordem de autoria** — o CV lista João como primeiro autor em todos os trabalhos; certificados
+5. **Ordem de autoria** — o CV lista João como primeiro autor em todos os trabalhos; certificados
    oficiais e Scholar registram posições diferentes, conforme detalhado em
    [04-pesquisa-e-publicacoes.md](04-pesquisa-e-publicacoes.md).
-7. **Telefone** — CV e portfólio: `+55 (83) 98863-6734`; o link do WhatsApp em `src/script.js` aponta
+6. **Telefone** — CV e portfólio: `+55 (83) 98863-6734`; o link do WhatsApp em `src/script.js` aponta
    para `558398863734`, um dígito a menos que `5583988636734` usado no `index.html`. A divergência
    permanece fora do escopo deste dossiê, pois os arquivos do portfólio não foram alterados.
 
 ## Lacunas resolvidas nesta revisão
 
+- **Níveis de idioma:** resolvidos pela definição do próprio João em **27/08/2026** — inglês
+  **avançado / profissional (~85% autoavaliado)**, suficiente para trabalho técnico, leitura,
+  escrita, documentação e comunicação profissional; Libras **intermediário (pós-básico)**, capaz de
+  conversar, apresentar e se comunicar bem, com vocabulário de sinais limitado; português nativo.
+  LinkedIn (Libras básico) e CV em PDF (Libras *Professional Working*) ficam como registros
+  desatualizados.
 - Datas dos vínculos na Logon, Empório Sertanejo, Animalesko e Residência: observadas no LinkedIn.
 - Datas e papel de bolsista dos dois projetos Interconecta, além das datas dos quatro projetos de
   extensão: confirmados no dossiê da seleção da Residência.
