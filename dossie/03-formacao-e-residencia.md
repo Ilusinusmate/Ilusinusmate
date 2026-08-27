@@ -19,8 +19,10 @@ Residência em TIC ([fonte](fontes/residencia-virtus-selecao-2025.md)).
 
 **Técnico Integrado — Instituto Federal da Paraíba (IFPB), Campus Campina Grande**
 
-- **mar/2022 – dez/2024** no LinkedIn, curso **Técnico Integrado em Química**; ⚠ o Lattes registra
-  **2022–2025**. A formação em computação veio das olimpíadas científicas,
+- **Técnico Integrado em Química**; três versões de período: **mar/2022 – dez/2024** (LinkedIn),
+  **04/2022 – 12/2024** (CV em PDF, p.2) e ⚠ **2022–2025** (Lattes). O CV chama a formação
+  genericamente de "Ensino Técnico Profissionalizante". A formação em computação veio das olimpíadas
+  científicas,
   projetos de pesquisa e extensão, minicursos ministrados e artigos publicados — e não do curso
   técnico em si. **Atenção ao escrever o CV:** não descrever o técnico como "técnico em informática".
 - **Bolsista do CNPq** durante o período.
@@ -53,18 +55,39 @@ Residência em TIC ([fonte](fontes/residencia-virtus-selecao-2025.md)).
 
 ## Idiomas
 
-O LinkedIn declara inglês avançado e Libras básico; o Lattes usa classificações diferentes.
+As três fontes usam escalas diferentes para os mesmos idiomas — o CV em PDF (página 2, imagem) é a
+fonte mais generosa e o LinkedIn a mais conservadora. Para candidaturas, o mais seguro é usar a
+coluna do LinkedIn.
 
-| Idioma | Nível declarado |
-| --- | --- |
-| Português | Nativo (LinkedIn/Lattes) |
-| Inglês | **Avançado (LinkedIn)** ⚠ Lattes: compreende, fala, lê e escreve bem |
-| Libras | **Básico (LinkedIn)** ⚠ Lattes: compreende, fala, lê e escreve razoavelmente |
+| Idioma | LinkedIn | Lattes | CV em PDF (p.2) |
+| --- | --- | --- | --- |
+| Português | Nativo | — | Native or Bilingual Proficiency |
+| Inglês | **Avançado** | compreende, fala, lê e escreve bem | Full Professional Proficiency |
+| Libras | **Básico** | compreende, fala, lê e escreve razoavelmente | Professional Working Proficiency |
+| Espanhol | não listado | não listado | Limited Working Proficiency |
+
+⚠ **Espanhol** aparece apenas no CV em PDF. ⚠ A diferença em **Libras** (básico vs. *professional
+working*) e em **inglês** (avançado vs. *full professional*) precisa de uma definição sua antes de ir
+para um CV novo.
 
 ## Cursos e trilhas complementares
 
-- **DIO — Python Backend**: projeto avaliativo `Transaction-API` (API assíncrona de transações).
-- **DIO — Flutter**: projeto avaliativo `IMC-Mobile-Calculador`.
+O CV em PDF (p.2) lista estes dois na seção **Educação**, como formações complementares:
+
+- **Flutter Specialist — DIO (Digital Innovation One)**: projeto avaliativo `IMC-Mobile-Calculador`.
+- **Python Backend Developer — DIO (Digital Innovation One)**: projeto avaliativo `Transaction-API`
+  (API assíncrona de transações).
+
+⚠ Sem datas nem números de certificado em nenhuma fonte.
+
+## Participações e atividades (CV em PDF, p.2)
+
+| Atividade | Período | Papel |
+| --- | --- | --- |
+| **LAPLIN** — Lab. de Análise e Processamento de Linguagem Natural (CNPq) | 2023 – atual | Membro |
+| **Conselho Diretor — IFPB** (órgão de regência do Instituto Federal) | 2023 – 2024 | Membro |
+| **ExpoTec 2023** | 2023 | Participante |
+| **ExpoTec 2025** | 2025 | Participante |
 
 ## Certificados e comprovantes no repositório
 

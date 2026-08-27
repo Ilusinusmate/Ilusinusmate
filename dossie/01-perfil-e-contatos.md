@@ -8,6 +8,7 @@
 | Localização | Campina Grande – PB, Brasil |
 | Disponibilidade | Aberto a novas oportunidades (perfil GitHub marcado como *available for hire*) |
 | Idioma nativo | Português |
+| Idioma adicional declarado | ⚠ Espanhol — somente no CV em PDF (p.2), *Limited Working Proficiency* |
 
 ## Contatos
 

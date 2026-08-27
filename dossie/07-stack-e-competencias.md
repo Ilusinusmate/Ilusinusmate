@@ -3,6 +3,11 @@
 Coluna **Evidência** = onde essa tecnologia foi realmente usada. Só leve para o CV o que tem
 evidência; o resto fica como "familiaridade" e não entra em lista de requisitos.
 
+## Interesses declarados (CV em PDF, p.2)
+
+ERP · Ecommerce · Mobile Apps · IA · NLP · Microserviços · Arquitetura Distribuída · LLMs ·
+**Embedded AI** · Engenharia de Software.
+
 ## Linguagens
 
 | Tecnologia | Nível | Evidência |
@@ -86,7 +91,7 @@ qualidade de *user stories* e conhecimento normativo de Scrum (PSM I).
 | Competência | Onde se prova |
 | --- | --- |
 | Liderança técnica | Líder do setor mobile na Logon; liderou 3 devs no Empório Sertanejo |
-| Liderança acadêmica | **Coordenador** de 2 projetos de pesquisa com integrantes de mestrado e doutorado |
+| Liderança acadêmica | Liderança do grupo discente em 2 projetos de pesquisa com integrantes de mestrado e doutorado (⚠ Lattes diz *coordenador*; declaração do IFPB diz *bolsista*) |
 | Comunicação com cliente / negociação | Levantamento de requisitos e negociação no Empório Sertanejo e nos freelances |
 | Mediação entre times | Logon (RH ↔ backend); Animalesko (dev ↔ Product Owner) |
 | Ensino e didática | Aulas de Python no IFPB, ~60 alunos formados; minicursos e oficinas de extensão |

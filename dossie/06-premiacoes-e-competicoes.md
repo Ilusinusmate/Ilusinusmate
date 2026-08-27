@@ -11,8 +11,9 @@
 O certificado oficial diz: **"premiado como o melhor Resumo Expandido da modalidade Iniciação
 Científica e Tecnológica — Tecnologia da Informação e Comunicação, do 5º SIMPIF (22–24/11/2023,
 Cabedelo-PB)"**, emitido em 12/01/2024. **"Melhor Artigo de Tecnologia - SIMPIF"**, nome do
-certificado no LinkedIn emitido pelo IFPB em nov/2023, e a formulação do Lattes são a mesma
-premiação, não duas.
+certificado no LinkedIn emitido pelo IFPB em nov/2023, e **"Melhor Artigo de Ciência e Tecnologia -
+SIMPIF (2023)"**, como aparece no CV em PDF, são apelidos da mesma premiação que a formulação do
+Lattes — não são prêmios distintos.
 
 **Trabalho premiado:** *Identificação de padrões e anomalias em textos produzidos pelo ChatGPT sob
 o ponto de vista da corretude gramatical*.
@@ -28,13 +29,13 @@ o ponto de vista da corretude gramatical*.
 
 ## Outros resultados e participações
 
-- **Finalista da Olimpíada Brasileira de Informática (OBI)** (LinkedIn).
-- **Ouro na Olimpíada Paraibana de Informática (OPI) 2026, categoria Avançado Júnior**, certificado
-  no LinkedIn emitido em ago/2026.
-- **Finalista da OBI 2023** e **campeão da OPI 2023**, conforme certificados no LinkedIn.
+- **Finalista da Olimpíada Brasileira de Informática (OBI) 2023** — certificado no LinkedIn.
+- **Ouro na Olimpíada Paraibana de Informática (OPI) 2026, categoria Avançado Júnior** — certificado
+  no LinkedIn emitido em ago/2026. Contexto público: a final da **XVI OPI** foi em **08/08/2026**,
+  organizada pela UFCG.
 - ⚠ A prata na categoria Avançado Júnior em 2023 e o ouro na mesma categoria em 2026 são
-  provavelmente edições distintas, mas falta confirmar se são edições diferentes ou correção de
-  registro.
+  provavelmente **edições distintas** da competição — falta confirmar isso (ou se houve correção de
+  registro). Não some as duas como se fossem a mesma conquista.
 - **Mais de 5 medalhas** em olimpíadas de programação e competições similares (CV e portfólio).
 - **Campeão paraibano da OPI 2023–2024** — o CV cita o biênio; o Lattes registra 2023.
 - **Medalha de bronze** com o projeto **WhatsHome**, em banca do Sebrae Tech no VIRTUS-CC

@@ -36,15 +36,17 @@ Bullets já no formato "ação + escopo + resultado", prontos para copiar. Marca
 
 ## IFPB — docência e pesquisa
 
-- `[ACAD]` `[LID]` **Coordenei** o projeto de pesquisa "Aprendizagem assistida por IA", com equipe
-  incluindo mestrandos e doutorandos, ainda como estudante do ensino técnico.
+- `[ACAD]` `[LID]` Liderei o grupo discente do projeto de pesquisa "Aprendizagem assistida por IA",
+  com equipe incluindo mestrandos e doutorandos, ainda como estudante do ensino técnico.
+  ⚠ O Lattes registra o papel como *Coordenador*; a declaração oficial do IFPB registra *bolsista*
+  (coordenação formal com o prof. Golbery Rodrigues) — prefira "liderança do grupo discente" no CV.
 - `[ACAD]` `[IA]` Desenhei e executei um experimento **A/B** com 3 turmas para medir o efeito do uso
   de IA generativa no aprendizado de Python, com coleta e análise de dados quantitativos e
   qualitativos.
 - `[ACAD]` Ministrei aulas de Python para **~60 alunos**, com ~30 certificados emitidos, em turmas do
   IFPB e de escola pública parceira.
-- `[ACAD]` `[IA]` Coordenei pesquisa sobre corretude gramatical de textos gerados por LLM, propondo
-  métricas de avaliação e um catálogo de boas e más práticas.
+- `[ACAD]` `[IA]` Atuei como bolsista na pesquisa sobre corretude gramatical de textos gerados por
+  LLM, propondo métricas de avaliação e um catálogo de boas e más práticas.
 - `[ACAD]` Fui bolsista nos projetos **Interconecta** de **03/05/2023 a 31/12/2023** e de
   **30/07/2024 a 31/12/2024**, conforme o dossiê da seleção da Residência.
 - `[ACAD]` Publiquei como **primeiro autor** no WEI 2025 (Workshop sobre Educação em Computação) e no

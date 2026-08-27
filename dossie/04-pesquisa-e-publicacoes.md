@@ -56,6 +56,11 @@ Fonte: **Google Scholar** (perfil próprio, 8 registros, com duplicatas e sem os
 citações, índice h 1) cruzado com **Lattes**, **SBC OpenLib**, **arXiv**, **Springer** e o dossiê da
 seleção da Residência. O Lattes só registra 2 das produções — **está desatualizado.**
 
+⚠ **Ordem de autoria:** o CV em PDF lista João como primeiro autor de todos os trabalhos, mas os
+certificados oficiais e o Scholar registram posições diferentes: sexto autor no SIMPIF 2023, segundo
+no CONEDU 2023, segundo no XP 2026, terceiro no arXiv:2607.00049 e sexto no arXiv:2607.00048. Para
+currículos, use as posições dos certificados/Scholar, não a ordem do CV.
+
 ### Conferência internacional (Springer LNBIP)
 
 1. SILVA, Izabella; **PAIVA, João Gabriel**; PERKUSICH, Mirko; ALBUQUERQUE, Danyllo; DANTAS, Emanuel;
@@ -121,7 +126,8 @@ seleção da Residência. O Lattes só registra 2 das produções — **está de
 1. RODRIGUES, Golbery; ALBUQUERQUE, Danyllo; FREITAS, Vanessa Lopes de; JALES, Andressa Kaline
    Ferreira Araújo; CHAGAS, Jesualdo Gomes das; **PAIVA, João Gabriel Salvador**.
    *Identificação de padrões e anomalias em textos produzidos pelo ChatGPT sob o ponto de vista da
-   corretude gramatical.* **5º SIMPIF**, 22–24 nov. 2023, Cabedelo – PB. **Sexto autor**.
+   corretude gramatical.* **5º SIMPIF**, 22–24 nov. 2023, Cabedelo – PB. **Sexto autor**. No CV:
+   **V SIMPIF – Simpósio dos Institutos Federais**, **ISSN 2358-8829**.
    **Premiado como o melhor Resumo Expandido da modalidade Iniciação Científica e Tecnológica —
    Tecnologia da Informação e Comunicação**; certificado emitido em 12/01/2024.
 
@@ -129,7 +135,7 @@ seleção da Residência. O Lattes só registra 2 das produções — **está de
    William; VIRGINIO, Jhonnata Vieira; SOUSA, Ianna Maria Sodré Ferreira de.
    *Aprendizagem Assistida por IA: Comparando Estratégias de Ensino de Python em Sala de Aula.*
    Resumo expandido, modalidade Iniciação Científica e Tecnológica. **6º SIMPIF**, 23–25 jul. 2025,
-   João Pessoa – PB. **Terceiro autor**.
+   João Pessoa – PB. **Terceiro autor**. No CV: **VI SIMPIF**.
 
 ### Trabalhos com comprovante no repositório
 
@@ -154,7 +160,7 @@ PDFs: `src/documents/artigo-simpif-2023.pdf`, `src/documents/artigo-conedu-2023.
 ## Projetos de pesquisa (Lattes)
 
 ### Aprendizagem assistida por IA: comparando estratégias de ensino de Python em sala de aula
-**30/07/2024 – 31/12/2024 · Concluído · papel confirmado: BOLSISTA**
+**30/07/2024 – 31/12/2024 · Concluído · papel: BOLSISTA** (⚠ o Lattes registra *Coordenador*)
 
 Investiga o impacto da IA generativa no ensino de programação em Python, comparando turmas que usam
 IA com turmas tradicionais em desempenho, engajamento e aprendizagem. Metodologia: minicurso de
@@ -162,15 +168,17 @@ Python dividido em **grupo experimental (com IA)** e **grupo de controle (sem IA
 análise de dados quantitativos e qualitativos. Objetivo: verificar se assistentes baseados em
 linguagem natural melhoram resultados, reduzem desigualdades e apoiam o trabalho docente.
 
-- O dossiê da seleção confirma a participação como **bolsista**; o Lattes/LinkedIn também descrevem
-  atuação de liderança discente durante a execução.
+- ⚠ **Divergência de papel:** a declaração oficial do IFPB (SUAP) registra João como membro
+  **bolsista**, com coordenação formal do prof. Golbery Rodrigues e orientação de Danyllo
+  Albuquerque; o **Lattes** registra João como *Coordenador*. Redação segura para o CV:
+  **bolsista de pesquisa com liderança do grupo discente**.
 - Execução em 3 turmas (IFPB e ECIT Bráulio Maia Júnior), ~60 alunos formados, ~30 certificados.
 - Dados públicos:
   https://github.com/Ilusinusmate/Projeto-de-Pesquisa-Apredizagem-Assistida-por-IA
 - Publicação associada: artigo do **WEI 2025**.
 
 ### Identificação de padrões e anomalias em textos produzidos pelo ChatGPT sob o ponto de vista da corretude gramatical
-**03/05/2023 – 31/12/2023 · Concluído · papel confirmado: BOLSISTA**
+**03/05/2023 – 31/12/2023 · Concluído · papel: BOLSISTA** (⚠ o Lattes registra *Coordenador*)
 
 Avaliação da qualidade gramatical de textos gerados pelo ChatGPT: identificação e classificação dos
 erros mais recorrentes, proposta de **métricas de avaliação** e elaboração de um catálogo de boas e
@@ -178,8 +186,8 @@ más práticas linguísticas para geração automática de texto. Metodologia: r
 literatura, coleta e análise de textos gerados e desenvolvimento de métricas gramaticais
 quantitativas e qualitativas.
 
-- O dossiê da seleção confirma a participação como **bolsista**; o LinkedIn descreve liderança do
-  grupo docente durante o experimento.
+- ⚠ Mesma divergência do projeto anterior: declaração do IFPB diz **bolsista** (coordenação do prof.
+  Golbery Rodrigues), Lattes diz *Coordenador*.
 
 ---
 
