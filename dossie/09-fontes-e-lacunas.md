@@ -12,7 +12,7 @@
 | GitHub (perfil + 28 repos) | https://github.com/Ilusinusmate | ✅ API pública e READMEs |
 | Portfólio publicado | https://ilusinusmate.github.io/Ilusinusmate/ | ✅ conteúdo do `index.html` deste repo |
 | Conversa compartilhada (ChatGPT) | https://chatgpt.com/share/6a8f9edb-6618-83e9-9fb8-6a94596e3048 | ✅ textos sobre PantryVision, WhatsHome e a formação da Residência |
-| LinkedIn | https://www.linkedin.com/in/joao-gabriel-salvador-paiva-805283286 | ⚠ **perfil principal observado diretamente** em sessão autenticada em 27/08/2026; algumas páginas `/details/` retornaram versão pública limitada, portanto recomendações, organizações e voluntariado não foram integralmente observados |
+| LinkedIn | https://www.linkedin.com/in/jo%C3%A3o-gabriel-salvador-paiva-805283286/ | ⚠ **perfil principal observado diretamente** em sessão autenticada em 27/08/2026; algumas páginas `/details/` retornaram versão pública limitada, portanto recomendações, organizações e voluntariado não foram integralmente observados |
 | Google Scholar | https://scholar.google.com/citations?user=PM4PEhAAAAAJ | ✅ lista completa (8 registros, 2 citações, índice h 1) — revelou 3 trabalhos do ISE/VIRTUS + o CONEDU 2023 |
 | SBC OpenLib (SOL) | https://sol.sbc.org.br | ✅ citações completas e DOIs do WEI 2025 e WICS 2024 |
 | arXiv | https://arxiv.org/abs/2607.00048 e /2607.00049 | ✅ autoria, datas e resumos dos *preprints* |

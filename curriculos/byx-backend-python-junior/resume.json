@@ -15,7 +15,7 @@
     "email": "joaogabrielsalvadorpaiva@gmail.com",
     "telefone": "+55 (83) 98863-6734",
     "github": "https://github.com/Ilusinusmate",
-    "linkedin": "https://www.linkedin.com/in/joao-gabriel-salvador-paiva-805283286",
+    "linkedin": "https://www.linkedin.com/in/jo%C3%A3o-gabriel-salvador-paiva-805283286/",
     "portfolio": "https://ilusinusmate.github.io/Ilusinusmate/"
   },
   "resumo": "Desenvolvedor backend com quase 3 anos de experiência profissional em Python (Django e FastAPI), construindo APIs REST, microsserviços e integrações. Experiência com PostgreSQL, NoSQL, Redis, RabbitMQ, Celery, Docker, AWS e CI/CD, com código testável orientado a Clean Code, SOLID e DDD. Backend de aplicações em produção com mais de 50 mil usuários ativos.",

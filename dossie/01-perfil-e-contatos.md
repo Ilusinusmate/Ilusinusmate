@@ -28,7 +28,7 @@ Detalhes e divergências históricas: [formação e residência — idiomas](03-
 | --- | --- |
 | Portfólio (GitHub Pages) | https://ilusinusmate.github.io/Ilusinusmate/ |
 | GitHub | https://github.com/Ilusinusmate |
-| LinkedIn | https://www.linkedin.com/in/joao-gabriel-salvador-paiva-805283286 |
+| LinkedIn | https://www.linkedin.com/in/jo%C3%A3o-gabriel-salvador-paiva-805283286/ |
 | Linktree | https://linktr.ee/joaogabrielsalvadorpaiva |
 | Portfólio em slides (Canva) | https://canva.link/weymn73fi0pzcd7 |
 | Currículo (PDF, Google Drive) | https://drive.google.com/file/d/19n4blxcEzoWUBN6Ai_PMOEU4AUbVvhLx/view |

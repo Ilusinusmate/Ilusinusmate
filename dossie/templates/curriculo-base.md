@@ -8,7 +8,7 @@ relevantes e 2 a 3 nas demais. Tudo que não conversa com a vaga sai.
 **João Gabriel Salvador Paiva**
 `<Título alinhado à vaga>`
 Campina Grande – PB, Brasil · joaogabrielsalvadorpaiva@gmail.com · +55 (83) 98863-6734
-github.com/Ilusinusmate · linkedin.com/in/joao-gabriel-salvador-paiva-805283286 · ilusinusmate.github.io/Ilusinusmate
+github.com/Ilusinusmate · linkedin.com/in/joão-gabriel-salvador-paiva-805283286 · ilusinusmate.github.io/Ilusinusmate
 
 ## Resumo
 
