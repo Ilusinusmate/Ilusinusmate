@@ -83,6 +83,10 @@
 > grupo discente do projeto "Aprendizagem assistida por IA", que formou cerca de 60 alunos em um
 > experimento A/B sobre ensino de programação com e sem apoio de IA. Sou membro do LAPLIN
 > (Laboratório de Análise e Processamento de Linguagem Natural), com artigos apresentados em eventos
-> nacionais, incluindo o prêmio de Melhor Artigo em Tecnologia da Informação e Computação no SIMPIF
-> 2023. Em competição, sou campeão paraibano da Olimpíada Paraibana de Informática e finalista da
-> Olimpíada Brasileira de Informática, com mais de cinco medalhas em olimpíadas de programação.
+> nacionais, incluindo o prêmio de Melhor Resumo Expandido em Tecnologia da Informação e Comunicação
+> no SIMPIF 2023. Hoje pesquiso no grupo ISE (Intelligent Software Engineering) do VIRTUS/UFCG,
+> avaliando empiricamente LLMs aplicados à Engenharia de Software — em 2026 fui coautor de artigo no
+> XP 2026 (Springer LNBIP) sobre qualidade de user stories e de dois preprints no arXiv sobre
+> acurácia de LLMs em questões de certificação Scrum. Em competição, sou campeão paraibano da
+> Olimpíada Paraibana de Informática e finalista da Olimpíada Brasileira de Informática, com mais de
+> cinco medalhas em olimpíadas de programação.

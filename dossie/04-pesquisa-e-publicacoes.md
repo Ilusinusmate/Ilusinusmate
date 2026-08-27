@@ -5,7 +5,9 @@ declarada em 20/10/2025. O Lattes é a referência para títulos, anos e papéis
 complementa com contexto.
 
 - **Google Scholar:** https://scholar.google.com/citations?user=PM4PEhAAAAAJ
-  — 5 trabalhos, 1 citação (medição de 20/10/2025).
+  — 8 registros (6 trabalhos distintos), **2 citações**, índice h 1; áreas declaradas: Computação,
+  Inteligência Artificial, Sistemas Distribuídos. Coautor listado: Golbery Rodrigues (IFPB).
+  (O Lattes ainda registrava 5 trabalhos e 1 citação em 20/10/2025.)
 - **Nome em citações bibliográficas:** `PAIVA, J. G. S.` · `PAIVA, João` · `JGS, Paiva` ·
   `SALVADOR PAIVA, João`.
 - **ID Lattes:** 0275324617447099.
@@ -32,9 +34,11 @@ de sujeitos e subjetividades; na prática, **LLMs aplicados à educação e à l
 cria técnicas, métodos e ferramentas para melhorar qualidade e produtividade em Engenharia de
 Software com abordagens inteligentes (IA, analytics, big data), com validação experimental em
 projetos reais do VIRTUS e de empresas (https://www.virtus.ufcg.edu.br/intelligent-software-engineering/).
-Os materiais suplementares listados no fim deste arquivo pertencem a essa linha. ⚠ Nenhum artigo do
-ISE com seu nome está indexado publicamente ainda — ver
-[09-fontes-e-lacunas.md](09-fontes-e-lacunas.md).
+É dessa linha que saíram os **quatro artigos de 2026 sobre LLMs em Engenharia de Software ágil**
+listados abaixo (Scrum e user stories), em coautoria com Mirko Perkusich, Angelo Perkusich, Kyller
+Gorgônio, Danyllo Albuquerque, Emanuel Dantas, Robson Vilar, Ademar França de Sousa Neto e Rohit
+Gheyi — corpo de pesquisadores sênior do VIRTUS/UFCG. Repositórios de material suplementar em
+[05-projetos.md](05-projetos.md).
 
 Colaboradores recorrentes (para contextualizar coautorias): Danyllo Wagner Albuquerque,
 Golbery de Oliveira Chagas Aguiar Rodrigues, Jesualdo Gomes das Chagas, Jhonnata Vieira Virginio,
@@ -42,11 +46,53 @@ Ianna Maria Sodré Ferreira de Sousa, Gabriel William Ferreira.
 
 ---
 
-## Publicações (lista oficial do Lattes)
+## Publicações
+
+Fonte: **Google Scholar** (perfil próprio, 8 registros — um deles é entrada duplicada do mesmo
+*preprint* — 2 citações, índice h 1) cruzado com **Lattes**, **SBC OpenLib**, **arXiv** e **Springer**.
+O Lattes só registra 2 das produções — **está desatualizado.**
+
+### Conferência internacional (Springer LNBIP)
+
+1. SILVA, Izabella; **PAIVA, João Gabriel**; PERKUSICH, Mirko; ALBUQUERQUE, Danyllo; DANTAS, Emanuel;
+   GORGÔNIO, Kyller Costa; PERKUSICH, Angelo.
+   *Evaluating the Quality of User Stories: An Extended Comparative Study of Multiple LLMs and
+   Rule-Based Tools.* In: **XP 2026 — 27th International Conference on Agile Software Development**,
+   São Paulo, 8–11 abr. 2026. **Lecture Notes in Business Information Processing, v. 578**,
+   p. 155–174. Springer, 2026. **Open Access.** — **segundo autor.**
+   https://link.springer.com/book/10.1007/978-3-032-22375-3
+   > Compara **AQUSA** (ferramenta baseada em regras, framework QUS) com **GPT-5, GPT-5-mini e GPT-4**
+   > na detecção de defeitos em 182 user stories de três bases industriais, com precisão/recall/F1 e
+   > análise qualitativa. GPT-5-mini teve o melhor recall (0,81) e F1 (0,62); AQUSA, a melhor
+   > precisão (0,61). Conclusão: estratégia híbrida *dual-gate* — regras para rigor estrutural,
+   > LLM leve para refinamento contextual.
+   > **É a publicação mais forte para vagas de Engenharia de Software / IA aplicada.**
+
+### Preprints (arXiv, 2026 — grupo ISE/VIRTUS)
+
+1. PERKUSICH, Mirko; ALBUQUERQUE, Danyllo; **PAIVA, João**; VILAR, Robson; DANTAS, Emanuel;
+   SOUSA NETO, Ademar França de; GHEYI, Rohit; GORGÔNIO, Kyller; PERKUSICH, Angelo.
+   *Prompting GPT-5 on Scrum Certification Questions: An Empirical Accuracy Study.*
+   arXiv:2607.00049, 29 jun. 2026 — **terceiro autor.**
+   > Mede como *zero-shot*, *chain-of-thought* e *with-source citation* afetam a acurácia factual do
+   > GPT-5 em **993 questões validadas no formato PSM** (Professional Scrum Master).
+
+2. VILAR, Robson Alves; DANTAS FILHO, Emanuel; SOUSA NETO, Ademar França de; PERKUSICH, Mirko;
+   ALBUQUERQUE, Danyllo Wagner; **PAIVA, João**; GORGÔNIO, Kyller; PERKUSICH, Angelo.
+   *Comparing Large Language Models on Scrum Certification-Style Questions: Accuracy, Stability, and
+   Error Patterns.* arXiv:2607.00048, 29 jun. 2026 — **sexto autor.**
+   > Avalia **GPT-5 mini, Gemini 3 Flash e DeepSeek Chat 3.2** nas mesmas 993 questões PSM I, sob
+   > três estratégias de prompting, medindo acurácia, estabilidade e padrões de erro.
 
 ### Trabalhos completos em anais de congressos
 
-1. **PAIVA, João**; VIRGINIO, Jhonnata; ALBUQUERQUE, Danyllo; RODRIGUES, Golbery; SOUSA, Ianna.
+1. RODRIGUES, Golbery; **PAIVA, João Gabriel Salvador**; SILVA, W. R.
+   *Reflexões sobre uso do ChatGPT na educação: a visão de estudantes da Educação Básica.*
+   In: **CONEDU — Congresso Nacional de Educação**, 2023 — **segundo autor**; é o trabalho **mais
+   citado** (**2 citações**). Comprovantes: `src/documents/artigo-conedu-2023.pdf`,
+   `src/documents/CONEDU-2023.pdf`. ⚠ **Não consta no Lattes.**
+
+2. **PAIVA, João**; VIRGINIO, Jhonnata; ALBUQUERQUE, Danyllo; RODRIGUES, Golbery; SOUSA, Ianna.
    *Avaliação do Suporte de Grandes Modelos de Linguagem no Ensino de Programação: Um Relato de
    Experiência.* In: WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (**WEI**), 33., 2025, Maceió/AL. Anais.
    Porto Alegre: **Sociedade Brasileira de Computação**, 2025, p. 982–993. ISSN 2595-6175.
@@ -76,10 +122,13 @@ Ianna Maria Sodré Ferreira de Sousa, Gabriel William Ferreira.
 PDFs: `src/documents/artigo-simpif-2023.pdf`, `src/documents/artigo-conedu-2023.pdf`,
 `src/documents/SIMPIF-2023.pdf`, `src/documents/CONEDU-2023.pdf`.
 
-> ⚠ **Contagem de artigos:** o Lattes lista **2 produções** e o Google Scholar **5 trabalhos**, mas o
-> portfólio em slides fala em "mais de 10 artigos" e o LinkedIn em "mais de 7". No CV, use o que é
-> verificável: *"artigos publicados em anais de eventos nacionais (WEI, WICS, SIMPIF, CONEDU), com
-> premiação no SIMPIF 2023"*, ou atualize o Lattes antes de usar números maiores.
+> **Contagem de artigos:** o verificável hoje é **6 trabalhos distintos** — 1 conferência
+> internacional (Springer/XP 2026), 2 *preprints* no arXiv, 3 em anais nacionais (WEI, WICS, CONEDU)
+> — mais o resumo expandido premiado no SIMPIF 2023. O portfólio fala em "+10 artigos" e o LinkedIn
+> em "+7": só use esses números se houver trabalhos fora do Scholar e do Lattes.
+> Formulação segura para o CV: *"6 artigos, incluindo publicação em conferência internacional
+> (Springer LNBIP / XP 2026) e premiação no SIMPIF 2023"*.
+> ⚠ **O Lattes precisa ser atualizado** — faltam o XP 2026, os dois *preprints* e o CONEDU.
 
 ---
 

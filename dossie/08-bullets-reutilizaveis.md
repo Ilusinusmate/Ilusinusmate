@@ -72,6 +72,15 @@ Bullets já no formato "ação + escopo + resultado", prontos para copiar. Marca
   conquistando medalha de bronze com um modelo de negócio construído em equipe de 4 pessoas.
 - `[ACAD]` Aprovado em **1º lugar** no processo seletivo da Residência em TIC do VIRTUS-CC (centro
   EMBRAPII ligado à UFCG), com 240h de formação em Engenharia de Software, IoT e Machine Learning.
+- `[IA]` `[ACAD]` Coautor (2º autor) de artigo publicado no **XP 2026** (Springer LNBIP v. 578,
+  p. 155–174) que comparou **GPT-5, GPT-5-mini e GPT-4** com a ferramenta baseada em regras AQUSA na
+  detecção de defeitos em 182 *user stories* industriais, propondo uma estratégia híbrida
+  *dual-gate* — GPT-5-mini alcançou recall 0,81 e F1 0,62 contra precisão 0,61 do AQUSA.
+- `[IA]` Participei da avaliação empírica de **GPT-5, Gemini 3 Flash e DeepSeek Chat 3.2** em 993
+  questões de certificação Scrum (PSM I), medindo acurácia, estabilidade e padrões de erro sob
+  *zero-shot*, *chain-of-thought* e *with-source citation* — dois preprints no arXiv (2026).
+- `[IA]` `[ACAD]` Pesquisador no grupo **ISE (Intelligent Software Engineering) do VIRTUS/UFCG**,
+  aplicando IA à melhoria de qualidade e produtividade em Engenharia de Software.
 
 ## Frases de abertura por tipo de vaga
 
@@ -81,7 +90,8 @@ Bullets já no formato "ação + escopo + resultado", prontos para copiar. Marca
   código à publicação nas lojas, com liderança do time mobile."
 - **Full-stack:** "Desenvolvedor full-stack que já entregou ERP, POS, e-commerce e landing pages em
   produção, atuando do levantamento de requisitos ao deploy."
-- **Dados/IA:** "Pesquisador e desenvolvedor com trabalhos publicados sobre LLMs aplicados à educação
-  e experiência prática em NLP, experimentos A/B e análise de dados em Python."
+- **Dados/IA:** "Pesquisador e desenvolvedor com artigo em conferência internacional (Springer/XP
+  2026) sobre avaliação de LLMs em Engenharia de Software, além de trabalhos sobre LLMs na educação e
+  experiência prática em NLP, experimentos A/B e análise de dados em Python."
 - **Estágio/trainee:** "Graduando em Ciência da Computação na UFCG (CRA 9,44), campeão da Olimpíada
   Paraibana de Informática e com experiência real de produção desde 2023."

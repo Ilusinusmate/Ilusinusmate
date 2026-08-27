@@ -69,6 +69,12 @@ NLP (similaridade semântica, vetores de palavras, compressão de vetores, paral
 aplicados a educação e engenharia de software · desenho de experimentos A/B · análise estatística de
 dados de pesquisa · visão computacional (PantryVision) · Machine Learning e IoT (Residência em TIC).
 
+**Avaliação empírica de LLMs (grupo ISE/VIRTUS, 2026):** *benchmarking* de GPT-5, GPT-5-mini, GPT-4,
+Gemini 3 Flash e DeepSeek Chat 3.2 · técnicas de *prompting* (zero-shot, chain-of-thought,
+with-source citation) · métricas de precisão, recall e F1 · análise de estabilidade, alucinação e
+padrões de erro · comparação de LLM com ferramenta baseada em regras (AQUSA / framework QUS) ·
+qualidade de *user stories* e conhecimento normativo de Scrum (PSM I).
+
 ## Competências comportamentais (com o fato que as sustenta)
 
 | Competência | Onde se prova |

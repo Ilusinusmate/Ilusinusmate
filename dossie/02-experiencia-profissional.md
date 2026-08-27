@@ -52,8 +52,15 @@ Ordem: mais recente primeiro. `⚠` marca datas divergentes entre fontes — ver
   problema, usuário, proposta de valor e modelo de negócio, apresentado em formato de pitch
   (com réplica e tréplica) para banca do **Sebrae Tech** no VIRTUS-CC — **medalha de bronze**.
 - Ponte entre ambiente acadêmico e setor produtivo, com desenvolvimento técnico e comportamental.
+- **Pesquisa no grupo ISE (Intelligent Software Engineering) do VIRTUS** — avaliação empírica de LLMs
+  aplicados a Engenharia de Software ágil, que rendeu em 2026 **1 artigo em conferência internacional
+  (Springer LNBIP / XP 2026, sobre qualidade de user stories) e 2 preprints no arXiv** sobre acurácia
+  de LLMs em questões de certificação Scrum, ao lado de pesquisadores sênior do VIRTUS/UFCG.
+  Detalhes e citações em [04-pesquisa-e-publicacoes.md](04-pesquisa-e-publicacoes.md).
 
-**Stack/temas:** visão computacional, Machine Learning, IoT, Engenharia de Software, Design Thinking.
+**Stack/temas:** visão computacional, Machine Learning, IoT, Engenharia de Software, Design Thinking,
+avaliação empírica de LLMs (benchmarking, técnicas de prompting, precisão/recall/F1), Scrum e
+qualidade de requisitos.
 
 ---
 
