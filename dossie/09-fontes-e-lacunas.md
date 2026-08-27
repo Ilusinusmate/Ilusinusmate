@@ -12,7 +12,8 @@
 | Portfólio publicado | https://ilusinusmate.github.io/Ilusinusmate/ | ✅ conteúdo do `index.html` deste repo |
 | Conversa compartilhada (ChatGPT) | https://chatgpt.com/share/6a8f9edb-6618-83e9-9fb8-6a94596e3048 | ✅ textos sobre PantryVision, WhatsHome e a formação da Residência |
 | LinkedIn | https://www.linkedin.com/in/joao-gabriel-salvador-paiva-805283286 | ⚠ **parcial** — o acesso direto cai no *authwall*; usei apenas trechos públicos indexados por busca |
-| Google Scholar | https://scholar.google.com/citations?user=PM4PEhAAAAAJ | ℹ️ não aberto; contagem (5 trabalhos, 1 citação) vem do próprio Lattes |
+| Google Scholar | https://scholar.google.com/citations?user=PM4PEhAAAAAJ | ⚠ bloqueado por captcha; contagem (5 trabalhos, 1 citação) vem do próprio Lattes |
+| SBC OpenLib (SOL) | https://sol.sbc.org.br | ✅ citações completas e DOIs dos artigos do WEI 2025 e WICS 2024 |
 
 ## Divergências a resolver
 
@@ -44,6 +45,11 @@
 - **LinkedIn completo**: descrições integrais de cada cargo, lista completa de skills, recomendações e
   posts. Para preencher: exportar os dados do LinkedIn (*Configurações → Privacidade de dados →
   Obtenha uma cópia dos seus dados*) ou colar o texto do perfil aqui.
+- **Artigos do grupo ISE (Intelligent Software Engineering / VIRTUS)**: não localizei nenhuma
+  publicação indexada com seu nome ligada ao ISE — busquei no SOL/SBC, Google Scholar (captcha) e
+  busca aberta. Provavelmente são trabalhos submetidos/em avaliação, correspondentes aos repositórios
+  de material suplementar abaixo. **Me mande a lista (título, evento/revista, ano, status) ou o CV
+  atualizado do Lattes** que eu incorporo.
 - **Repositórios de pesquisa recentes** (`enemLLMWEI2026`, `smjss26`, `surveyxp26`,
   `llm-us-quality-xp26`, `softcomLLMPMP2026`, `paper_scrum`): confirmar se você é autor, coautor ou
   apenas mantenedor do material, e o status de cada submissão (submetido, aceito, publicado).

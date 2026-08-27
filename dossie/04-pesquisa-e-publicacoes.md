@@ -9,6 +9,7 @@ complementa com contexto.
 - **Nome em citações bibliográficas:** `PAIVA, J. G. S.` · `PAIVA, João` · `JGS, Paiva` ·
   `SALVADOR PAIVA, João`.
 - **ID Lattes:** 0275324617447099.
+- **E-mail acadêmico (IFPB), usado nas publicações:** salvador.paiva@academico.ifpb.edu.br
 
 ## Resumo do Lattes (texto oficial do autor)
 
@@ -27,6 +28,14 @@ complementa com contexto.
 grupo de pesquisa; bolsista CNPq durante o técnico integrado. Linha: influência das TICs na formação
 de sujeitos e subjetividades; na prática, **LLMs aplicados à educação e à linguagem**.
 
+**ISE — Intelligent Software Engineering (VIRTUS/UFCG)** — grupo de pesquisa que investiga, valida e
+cria técnicas, métodos e ferramentas para melhorar qualidade e produtividade em Engenharia de
+Software com abordagens inteligentes (IA, analytics, big data), com validação experimental em
+projetos reais do VIRTUS e de empresas (https://www.virtus.ufcg.edu.br/intelligent-software-engineering/).
+Os materiais suplementares listados no fim deste arquivo pertencem a essa linha. ⚠ Nenhum artigo do
+ISE com seu nome está indexado publicamente ainda — ver
+[09-fontes-e-lacunas.md](09-fontes-e-lacunas.md).
+
 Colaboradores recorrentes (para contextualizar coautorias): Danyllo Wagner Albuquerque,
 Golbery de Oliveira Chagas Aguiar Rodrigues, Jesualdo Gomes das Chagas, Jhonnata Vieira Virginio,
 Ianna Maria Sodré Ferreira de Sousa, Gabriel William Ferreira.
@@ -39,15 +48,23 @@ Ianna Maria Sodré Ferreira de Sousa, Gabriel William Ferreira.
 
 1. **PAIVA, João**; VIRGINIO, Jhonnata; ALBUQUERQUE, Danyllo; RODRIGUES, Golbery; SOUSA, Ianna.
    *Avaliação do Suporte de Grandes Modelos de Linguagem no Ensino de Programação: Um Relato de
-   Experiência.* In: **XXXIII Workshop sobre Educação em Computação (WEI 2025)**, 2025, p. 982.
-   — **primeiro autor.**
+   Experiência.* In: WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (**WEI**), 33., 2025, Maceió/AL. Anais.
+   Porto Alegre: **Sociedade Brasileira de Computação**, 2025, p. 982–993. ISSN 2595-6175.
+   DOI: https://doi.org/10.5753/wei.2025.8709 — **primeiro autor.**
+   > Resultado principal (útil em entrevista): o grupo com acesso orientado a LLMs teve desempenho
+   > superior em **todas as etapas** da formação, com mais autonomia, fluência técnica e segurança na
+   > apresentação das soluções — desde que houvesse orientação didática docente. Análise combinou
+   > indicadores quantitativos de desempenho com percepções qualitativas de alunos e professores.
 
 ### Resumos publicados em anais de congressos
 
 1. **PAIVA, João**; CHAGAS, Jessé das; ALBUQUERQUE, Danyllo; RODRIGUES, Golbery.
    *IA burlada: elaboração de prompts maliciosos no ChatGPT e seus impactos para a sociedade.*
-   In: **V Workshop sobre as Implicações da Computação na Sociedade (WICS 2024)**, 2024, p. 132.
-   — **primeiro autor.**
+   In: **V Workshop sobre as Implicações da Computação na Sociedade (WICS)**, 2024, Brasília — parte do
+   **XLIV Congresso da SBC (CSBC 2024)**, p. 132. DOI: https://doi.org/10.5753/wics.2024.2855
+   — **primeiro autor**; registra **1 citação**.
+   > Tema: como prompts maliciosos no ChatGPT podem induzir comportamento danoso, desinformação e
+   > discriminação, e que medidas mitigam esses riscos. Pesquisa qualitativa sobre respostas do modelo.
 
 ### Trabalhos com comprovante no repositório (não listados no Lattes)
 
