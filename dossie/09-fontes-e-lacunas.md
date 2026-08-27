@@ -66,8 +66,6 @@
 - **Central da Escola**: se pode citar números além dos 50 mil usuários (downloads, avaliação nas
   lojas, volume de requisições).
 - **Projetos do IFPB** (WebRádio, ECIT Boqueirão): período e papel exato.
-- **Segunda página do CV em PDF**: sem texto extraível — provavelmente imagem. Confirmar se há
-  conteúdo relevante.
 - **Certificações formais** (AWS e Scrum): números de certificado e datas.
 - **Cursos DIO**: Flutter Specialist e Python Backend Developer foram identificados, mas ainda sem
   datas nem número de certificado.
