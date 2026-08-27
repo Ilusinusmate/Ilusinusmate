@@ -1,0 +1,199 @@
+{
+  "perfil": {
+    "nome": "João Gabriel Salvador Paiva",
+    "titulo": "Desenvolvedor de Software",
+    "localizacao": "Campina Grande – PB, Brasil",
+    "disponibilidade": "Trabalho remoto",
+    "email": "joaogabrielsalvadorpaiva@gmail.com",
+    "telefone": "+55 (83) 98863-6734",
+    "github": "https://github.com/Ilusinusmate",
+    "linkedin": "https://www.linkedin.com/in/jo%C3%A3o-gabriel-salvador-paiva-805283286/",
+    "portfolio": "https://ilusinusmate.github.io/Ilusinusmate/"
+  },
+  "resumo": "Desenvolvedor de software com experiência em backend Python e desenvolvimento mobile com Flutter/Dart, construindo APIs REST, microsserviços e aplicações em produção. Responsável pelo app Central da Escola, com mais de 50 mil usuários ativos, por serviços Python/FastAPI e pelo ciclo de testes, CI/CD e publicação nas lojas Android e iOS. Experiência adicional com SaaS de ERP, PDV e e-commerce em Django/Python e PostgreSQL, além de pesquisa sobre IA, LLMs e Engenharia de Software.",
+  "competencias": {
+    "linguagens": ["Python", "Dart", "JavaScript", "TypeScript", "SQL", "C"],
+    "backend": [
+      "Django",
+      "Django REST Framework",
+      "FastAPI",
+      "APIs REST",
+      "microsserviços",
+      "autenticação",
+      "integrações entre sistemas"
+    ],
+    "mobile": [
+      "Flutter",
+      "Dart",
+      "Android",
+      "iOS",
+      "publicação nas lojas",
+      "BLoC",
+      "WebSocket",
+      "componentização"
+    ],
+    "dados": ["PostgreSQL", "bancos NoSQL", "Redis", "MinIO", "modelagem de dados"],
+    "infraestrutura_e_devops": [
+      "RabbitMQ",
+      "Docker",
+      "AWS (S3, CloudFront)",
+      "Railway",
+      "Render",
+      "Nginx",
+      "Linux",
+      "GitHub Actions",
+      "CI/CD",
+      "OpenTelemetry",
+      "Grafana",
+      "logging"
+    ],
+    "qualidade": ["PyTest", "mocks", "testes automatizados", "code review"],
+    "engenharia": [
+      "Clean Code",
+      "SOLID",
+      "DRY",
+      "DDD",
+      "design patterns",
+      "documentação técnica",
+      "Scrum",
+      "Kanban",
+      "sistemas distribuídos"
+    ]
+  },
+  "experiencia": [
+    {
+      "empresa": "Logon Informática",
+      "cargo": "Mobile & Backend Developer",
+      "inicio": "2025-01",
+      "fim": null,
+      "fonte": "dossie/02-experiencia-profissional.md",
+      "destaques": [
+        "Microsserviços Python/FastAPI, APIs REST, RabbitMQ e MinIO para o Central da Escola",
+        "Único desenvolvedor do app desde a versão 3, em Flutter/Dart, com mais de 50 mil usuários ativos",
+        "Liderança mobile, testes, CI/CD, publicação nas lojas, logging e documentação"
+      ]
+    },
+    {
+      "empresa": "Empório Sertanejo",
+      "cargo": "Desenvolvedor Full-stack — líder técnico",
+      "inicio": "2023-12",
+      "fim": "2025-09",
+      "fonte": "dossie/02-experiencia-profissional.md",
+      "destaques": [
+        "SaaS em Django/Python integrando ERP, PDV e e-commerce com PostgreSQL e Docker",
+        "Liderança de 3 desenvolvedores, testes com PyTest, CI/CD e observabilidade"
+      ]
+    },
+    {
+      "empresa": "VIRTUS-CC / Softex (UFCG)",
+      "cargo": "Residente em TIC — pesquisador do grupo ISE",
+      "inicio": "2025-11",
+      "fim": null,
+      "fonte": "dossie/03-formacao-e-residencia.md",
+      "destaques": [
+        "1º lugar na seleção, com 96/100 na prova de títulos e 100/100 na entrevista",
+        "Pesquisa de LLMs aplicados à Engenharia de Software, com artigo no XP 2026"
+      ]
+    },
+    {
+      "empresa": "Animalesko",
+      "cargo": "Desenvolvedor Backend (voluntário)",
+      "inicio": "2024-04",
+      "fim": "2024-09",
+      "fonte": "dossie/02-experiencia-profissional.md",
+      "destaques": [
+        "Arquitetura backend multiplataforma com foco em baixo consumo de recursos e decisões documentadas"
+      ]
+    },
+    {
+      "empresa": "IFPB (CNPq / LAPLIN)",
+      "cargo": "Pesquisador bolsista e professor de Python",
+      "inicio": "2023",
+      "fim": "2024",
+      "fonte": "dossie/04-pesquisa-e-publicacoes.md",
+      "destaques": [
+        "Bolsista de pesquisa com liderança do grupo discente em dois projetos",
+        "Aulas de Python para cerca de 60 alunos, experimento com e sem apoio de IA e publicações nacionais"
+      ]
+    }
+  ],
+  "projetos": [
+    {
+      "nome": "pdfa-parser",
+      "descricao": "Biblioteca Python open source publicada no PyPI para conversão de PDFs ao padrão PDF/A e validação automática com GhostScript e VeraPDF.",
+      "url": "https://pypi.org/project/pdfa-parser",
+      "stack": ["Python", "GhostScript", "VeraPDF", "PDF/A"]
+    },
+    {
+      "nome": "Contratexto",
+      "descricao": "Jogo web multiplayer em FastAPI com WebSocket, similaridade semântica, NLP e fila assíncrona.",
+      "url": "https://contratexto.onrender.com",
+      "stack": ["FastAPI", "WebSocket", "spaCy", "NLP"]
+    },
+    {
+      "nome": "Central da Escola",
+      "descricao": "Aplicativo escolar em Flutter com mais de 50 mil usuários ativos, publicado em Android e iOS, com microsserviços próprios.",
+      "url": null,
+      "stack": ["Flutter", "Dart", "Python", "FastAPI"]
+    },
+    {
+      "nome": "TodoApp",
+      "descricao": "Aplicativo Flutter com Clean Code, SOLID, componentização, context isolation e BLoC, executado em Android e Linux Desktop.",
+      "url": "https://github.com/Ilusinusmate/todoApp",
+      "stack": ["Flutter", "Dart", "BLoC"]
+    },
+    {
+      "nome": "Corretor ONHB",
+      "descricao": "Aplicativo feito a pedido de professores do IFPB para correção automática de provas da Olimpíada Nacional em História do Brasil, em Flutter e Electron.",
+      "url": null,
+      "stack": ["Flutter", "Dart", "Electron"]
+    }
+  ],
+  "formacao": [
+    {
+      "curso": "Bacharelado em Ciência da Computação",
+      "instituicao": "UFCG",
+      "inicio": "2025-01",
+      "fim_previsto": "2030"
+    },
+    {
+      "curso": "Técnico Integrado em Química",
+      "instituicao": "IFPB",
+      "inicio": "2022-03",
+      "fim": "2024-12"
+    },
+    {
+      "curso": "Flutter Specialist; Python Backend Developer",
+      "instituicao": "DIO",
+      "inicio": null,
+      "fim": null
+    }
+  ],
+  "idiomas": {
+    "portugues": "nativo",
+    "ingles": "avançado — leitura, escrita e comunicação profissional",
+    "libras": "intermediário"
+  },
+  "publicacoes_e_premios": [
+    "8 trabalhos científicos sobre IA, LLMs e Engenharia de Software",
+    "Melhor resumo expandido da modalidade Iniciação Científica e Tecnológica — TIC no 5º SIMPIF (2023)",
+    "Campeão da Olimpíada Paraibana de Informática (2023)",
+    "Ouro na OPI 2026, categoria Avançado Júnior",
+    "Finalista da Olimpíada Brasileira de Informática (2023)"
+  ],
+  "excluido_por_falta_de_evidencia": [
+    "Firebase (Analytics, Crashlytics, FCM, Remote Config e Firestore)",
+    "Lottie",
+    "injeção de dependência",
+    "desenvolvimento nativo em Kotlin ou Swift",
+    "GCP",
+    "Jenkins",
+    "GitLab CI",
+    "Codemagic",
+    "Go",
+    "Kubernetes",
+    "MongoDB",
+    "MySQL",
+    "fintech ou meios de pagamento"
+  ]
+}
