@@ -7,7 +7,7 @@
 | Flutter e Dart | **Forte** | Central da Escola, TodoApp e outros projetos mobile; `dossie/05-projetos.md` |
 | Publicação nas lojas | **Forte** | Ciclo de release do Central da Escola em Google Play e App Store; `dossie/02-experiencia-profissional.md` |
 | APIs REST e backend complementar | **Forte** | Python/FastAPI, APIs REST, microsserviços, RabbitMQ e MinIO na Logon |
-| Testes unitários, widget e integração | **Declarada** | Experiência descrita no CV mobile; evidência de testes no dossiê |
+| Testes unitários, widget e integração | **Gap parcial** | Há evidência de testes automatizados e de CI/CD, mas não dos tipos widget/integração especificamente |
 | Git | **Declarada** | Git, feature branches, pull requests e GitHub Actions no dossiê |
 | Injeção de dependência | **Gap** | Não há evidência suficiente para afirmar experiência |
 | Firebase completo | **Gap explícito** | Sem evidência de Analytics, Crashlytics, FCM, Remote Config ou Firestore |

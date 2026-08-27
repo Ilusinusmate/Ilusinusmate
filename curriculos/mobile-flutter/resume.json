@@ -25,9 +25,7 @@
       "monitoramento em produção"
     ],
     "qualidade_mobile": [
-      "testes unitários",
-      "testes de widget",
-      "testes de integração",
+      "testes automatizados",
       "code review",
       "Clean Code",
       "SOLID",
