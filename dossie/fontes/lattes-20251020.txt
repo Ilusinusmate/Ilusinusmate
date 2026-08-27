@@ -1,0 +1,225 @@
+Currículo Lattes - Busca Textual - Visualização do Currículo
+English
+Dados gerais Formação Atuação Projetos Produções Inovação Citações +
+João Gabriel Salvador Paiva
+Endereço para acessar este CV: http://lattes.cnpq.br/0275324617447099
+ID Lattes: 0275324617447099
+Última atualização do currículo em 20/10/2025
+
+
+
+João Gabriel Salvador Paiva é natural de Campina Grande - PB. Formou-se na rede pública federal de ensino pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB), onde concluiu o curso técnico integrado e desenvolveu suas habilidades na área de computação por meio da participação em olimpíadas científicas, projetos de pesquisa e extensão, lecionamento de minicursos e publicação de artigos acadêmicos. Atua profissionalmente como Desenvolvedor de Software, com experiência em diversas áreas, tendo ênfase em Backend e Desenvolvimento Mobile. Atualmente, é graduando em Ciência da Computação pela Universidade Federal de Campina Grande (UFCG) e membro do grupo de pesquisa Laboratório de Análise e Processamento de Linguagem Natural (LAPLIN - IFPB/CNPq), onde investiga a influência das tecnologias da informação e da comunicação na formação de sujeitos e subjetividades. (Texto informado pelo autor)
+
+
+
+Identificação
+Nome
+João Gabriel Salvador Paiva
+Nome em citações bibliográficas
+PAIVA, J. G. S.;PAIVA, João;JGS, Paiva;SALVADOR PAIVA, João
+Lattes iD
+http://lattes.cnpq.br/0275324617447099
+País de Nacionalidade
+Brasil
+
+
+Formação acadêmica/titulação
+2025
+Graduação em andamento em Ciência da Computação.
+Universidade Federal de Campina Grande, UFCG, Brasil.
+2022 - 2025
+Curso técnico/profissionalizante em Técnico Integrado em Química.
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB, IFPB, Brasil.
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+2021 - 2025
+Ensino Médio (2º grau).
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB, IFPB, Brasil.
+2012 - 2020
+Ensino Fundamental (1º grau).
+Colégio Djanira Tavares, CDT, Brasil.
+
+
+
+
+
+
+
+
+
+
+
+
+Atuação Profissional
+
+
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB, IFPB, Brasil.
+Vínculo institucional
+
+
+2023 - 2023
+Vínculo: , Enquadramento Funcional:
+
+
+
+
+
+
+Projetos de pesquisa
+2024 - 2025
+Aprendizagem assistida por IA: comparando estratégias de ensino de Python em sala de aula
+
+Descrição: O presente projeto investiga o impacto da integração da inteligência artificial generativa nos processos educacionais, com foco no ensino de programação em Python. O estudo propõe uma comparação entre turmas que utilizam recursos de IA e turmas tradicionais, analisando diferenças no desempenho, engajamento e aprendizagem dos alunos.A pesquisa fundamenta-se na crescente presença da IA cognitiva e generativa no contexto educacional e em sua capacidade de personalizar o ensino, oferecer feedback imediato e promover maior autonomia discente. Busca-se compreender se a utilização de assistentes virtuais baseados em linguagem natural melhora os resultados de aprendizagem, reduz desigualdades e apoia o trabalho docente.A metodologia inclui a implementação de um minicurso de Python dividido em grupos experimental (com IA) e de controle (sem IA), com coleta e análise de dados quantitativos e qualitativos. As hipóteses centrais consideram que o grupo assistido por IA apresentará melhor desempenho e engajamento em comparação ao grupo de controle.A relevância científica e social do estudo reside em antecipar e compreender os efeitos da inteligência artificial na educação brasileira, subsidiando políticas públicas e metodologias que garantam o uso ético, eficiente e inclusivo dessas tecnologias em sala de aula. O projeto também contribui para a formação docente inovadora, o desenvolvimento de práticas pedagógicas baseadas em IA e a compreensão crítica dos limites e potencialidades dessas ferramentas na aprendizagem de programação..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (0) / Especialização: (1) / Mestrado acadêmico: (2) / Mestrado profissional: (0) / Doutorado: (2) .
+
+Integrantes: João Gabriel Salvador Paiva - Coordenador / Danyllo Wagner Albuquerque - Integrante / Jesualdo Gomes das Chagas - Integrante / Golbery de Oliveira Chagas Aguiar Rodrigues - Integrante / Gabriel William Ferreira - Integrante / Jhonnata Vieira Virginio - Integrante / Ianna Maria Sodre Ferreira de Sousa - Integrante.
+
+2023 - 2023
+Identificação de padrões e anomalias em textos produzidos pelo ChatGPT sob o ponto de vista da corretude gramatical
+
+Descrição: O projeto tem como objetivo avaliar a qualidade gramatical dos textos gerados pelo modelo de linguagem ChatGPT (Generative Pre-trained Transformer), desenvolvido pela OpenAI. A pesquisa busca identificar e classificar os erros gramaticais mais recorrentes, propor métricas de avaliação e elaborar um catálogo de boas e más práticas linguísticas aplicáveis à geração automática de textos.A relevância do estudo está na crescente utilização de modelos de IA em contextos que exigem clareza, correção e coerência textual, como educação, comunicação e atendimento automatizado. A investigação contribui, portanto, para o aprimoramento da confiabilidade linguística desses sistemas e para a reflexão sobre o impacto das tecnologias de linguagem na formação de sujeitos e subjetividades.A metodologia contempla uma revisão sistemática da literatura, a coleta e análise de textos gerados pelo ChatGPT, e o desenvolvimento de métricas gramaticais que possibilitem avaliação quantitativa e qualitativa dos resultados. Os achados visam subsidiar futuras pesquisas na área de processamento de linguagem natural, além de apoiar o desenvolvimento de modelos linguísticos mais precisos e eticamente responsáveis..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (0) / Especialização: (2) / Mestrado acadêmico: (2) / Mestrado profissional: (0) / Doutorado: (3) .
+
+Integrantes: João Gabriel Salvador Paiva - Coordenador / Danyllo Wagner Albuquerque - Integrante / Jesualdo Gomes das Chagas - Integrante / Golbery de Oliveira Chagas Aguiar Rodrigues - Integrante.
+
+
+
+
+
+Projetos de extensão
+2025 - Atual
+DesmascarAI: Imprensa colegial com checagem inteligente na era digital
+
+Descrição: O projeto DesmascarAI visa desenvolver o pensamento crítico e a autonomia informacional de estudantes por meio da imprensa colegial, incentivando a prática de checagem de fatos e o uso ético de ferramentas digitais, incluindo Inteligência Artificial. Realizado em parceria com o grupo Mídia IFNEWS e o projeto News in Action, promove produção jornalística baseada em apuração rigorosa, análise crítica de fontes e disseminação de conteúdos verificados, fortalecendo a cultura da informação confiável no ambiente escolar..
+Situação: Em andamento; Natureza: Extensão.
+Alunos envolvidos: Graduação: (1) / Especialização: (0) / Mestrado acadêmico: (1) / Mestrado profissional: (0) / Doutorado: (1) .
+
+Integrantes: João Gabriel Salvador Paiva - Integrante / Danyllo Wagner Albuquerque - Integrante / Golbery de Oliveira Chagas Aguiar Rodrigues - Coordenador.
+
+2024 - 2024
+Desvendando o ChatGPT: Ferramentas de IA para Estudantes do Ensino Médio
+
+Descrição: O projeto visa capacitar estudantes do ensino médio de escolas públicas, em especial os em vulnerabilidade socioeconômica, no uso de grandes modelos de linguagem, como o ChatGPT. A iniciativa promove o empoderamento tecnológico, a alfabetização digital e o desenvolvimento de competências críticas e criativas, preparando os alunos para as demandas do século XXI.Metodologicamente, articula ensino, pesquisa e extensão, com oficinas teóricas e práticas, simulações e projetos colaborativos. O foco é integrar a inteligência artificial (IA) ao ambiente educacional de forma ética e inclusiva, estimulando a reflexão sobre suas implicações sociais e morais.O projeto é vinculado ao Laboratório de Análise e Processamento de Linguagem Natural LAPLIN (IFPB/CNPq) e conta com o apoio dos núcleos de extensão Mídias Jornalísticas na Escola: Ecos da Educomunicação, Ações em Foco e Transforma ENEM. Contribui diretamente para os ODS 4 (Educação de Qualidade) e ODS 10 (Redução das Desigualdades), buscando democratizar o acesso à tecnologia e fortalecer a inclusão digital e social..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (0) / Especialização: (0) / Mestrado acadêmico: (3) / Mestrado profissional: (0) / Doutorado: (3) .
+
+Integrantes: João Gabriel Salvador Paiva - Integrante / Danyllo Wagner Albuquerque - Integrante / Golbery de Oliveira Chagas Aguiar Rodrigues - Coordenador.
+
+2023 - 2023
+IFNEWS: Performance e proficiência através do trabalho de imprensa colegial
+
+Descrição: O projeto extensionista IFNEWS - Imprensa colegial é uma ação de fluxo contínuo, executada desde 2013, voltada para o desenvolvimento da expressão oral e escrita de estudantes do IFPB. Inicialmente no campus Guarabira, expandiu-se para o campus Campina Grande e outros campi. O projeto promove oficinas sobre gêneros jornalísticos, produção de textos e cobertura de eventos acadêmicos, articulando teoria e prática.Metodologicamente, os alunos recebem formação em redação, pesquisa, entrevistas, edição e trabalho em equipe, aplicando esses saberes na prática jornalística. O projeto integra ensino, pesquisa e extensão, fortalece o pensamento crítico e a cidadania, e se vincula ao Núcleo de Extensão e Cultura Mídias jornalísticas na escola: ecos da educomunicação, com apoio da ADCPIN.A proposta atende a duas perspectivas pedagógicas: interdisciplinaridade, ao articular conteúdos de diversas disciplinas; e integração, ao abranger múltiplos cursos e modalidades de ensino, promovendo a participação de alunos-repórteres que mediam entre seus pares. Ao inserir os estudantes em ambientes midiáticos reais, como estúdios de rádio e plataformas de podcast, o projeto contribui para que percebam a relevância prática de seus textos e desenvolvam habilidades essenciais de comunicação, autonomia, responsabilidade social e protagonismo estudantil..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (0) / Especialização: (0) / Mestrado acadêmico: (1) / Mestrado profissional: (0) / Doutorado: (0) .
+
+Integrantes: João Gabriel Salvador Paiva - Integrante / Golbery de Oliveira Chagas Aguiar Rodrigues - Coordenador.
+
+2023 - 2023
+Redação do Enem a partir de textos jornalísticos
+
+Descrição: O projeto visa promover, junto a estudantes de escolas públicas em situação de vulnerabilidade socioeconômica, o desenvolvimento da competência escritora necessária para a produção de textos dissertativo-argumentativos nos moldes exigidos pelo Exame Nacional do Ensino Médio (ENEM). A iniciativa baseia-se no método de escrita-reescrita e utiliza textos jornalísticos como reportagens, editoriais e notícias como ponto de partida para a construção de repertório temático e argumentativo.Metodologicamente, o projeto articula ensino, pesquisa e extensão, estimulando a reflexão crítica e o aprimoramento da escrita por meio de atividades práticas, revisões colaborativas e simulações de provas. A ação é desenvolvida em parceria com a Escola Cidadã Integral Técnica Prof. Bráulio Maia Júnior (ECIT-CG) e conta com o apoio de três núcleos extensionistas do IFPB: Mídias Jornalísticas na Escola: Ecos da Educomunicação, Ações em Foco e Transforma ENEM.Os resultados esperados incluem a melhoria do desempenho dos estudantes na redação do ENEM, o fortalecimento da cidadania crítica e a ampliação das oportunidades acadêmicas e profissionais. A proposta contribui diretamente para os Objetivos de Desenvolvimento Sustentável (ODS) 4 e 10, relacionados à educação de qualidade e à redução das desigualdades sociais..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (0) / Especialização: (1) / Mestrado acadêmico: (3) / Mestrado profissional: (0) / Doutorado: (1) .
+
+Integrantes: João Gabriel Salvador Paiva - Integrante / Danyllo Wagner Albuquerque - Integrante / Golbery de Oliveira Chagas Aguiar Rodrigues - Coordenador.
+
+
+
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.
+
+2.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação.
+
+
+
+
+
+Idiomas
+Português
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Inglês
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Libras
+Compreende Razoavelmente, Fala Razoavelmente, Lê Razoavelmente, Escreve Razoavelmente.
+
+
+
+
+Prêmios e títulos
+2023
+O melhor Resumo Expandido da modalidade Iniciação Científica e Tecnológica - Tecnologia da Informação e comunicação, Instituto Federal de Ciência, Tecnologia e Educação da Paraíba.
+2023
+Campeão da Olimpíada Paraibana de Informática (OPI), Universidade Federal de Campina Grande (UFCG).
+2023
+Vice-campeão da Olimpíada Paraibana de Informática Avançado Júnior (OPI), Universidade Federal de Campina Grande (UFCG).
+
+
+
+
+Produções
+
+
+Produção bibliográfica
+Citações
+
+
+Google Scholar
+Total de trabalhos: 5
+Total de citações: 1
+Data: 20/10/2025
+https://scholar.google.com/citations?user=PM4PEhAAAAAJ
+
+
+Trabalhos completos publicados em anais de congressos
+
+
+1.
+ PAIVA, João; VIRGINIO, JHONNATA ; ALBUQUERQUE, DANYLLO ; RODRIGUES, GOLBERY ; SOUSA, IANNA . Avaliação do Suporte de Grandes Modelos de Linguagem no Ensino de Programação: Um Relato de Experiência. In: Workshop sobre Educação em Computação, 2025, Brasil. Anais do XXXIII Workshop sobre Educação em Computação (WEI 2025), 2025. p. 982.
+
+
+
+Resumos publicados em anais de congressos
+
+
+1.
+PAIVA, João; CHAGAS, JESSÉ DAS ; ALBUQUERQUE, DANYLLO ; RODRIGUES, GOLBERY . IA burlada: elaboração de prompts maliciosos no ChatGPT e seus impactos para a sociedade. In: Workshop sobre as Implicações da Computação na Sociedade, 2024, Brasil. Anais do V Workshop sobre as Implicações da Computação na Sociedade (WICS 2024), 2024. p. 132.
+
+
+
+
+
+
+
+Inovação
+
+
+Projetos de pesquisa
+2024 - 2025
+Aprendizagem assistida por IA: comparando estratégias de ensino de Python em sala de aula
+
+Descrição: O presente projeto investiga o impacto da integração da inteligência artificial generativa nos processos educacionais, com foco no ensino de programação em Python. O estudo propõe uma comparação entre turmas que utilizam recursos de IA e turmas tradicionais, analisando diferenças no desempenho, engajamento e aprendizagem dos alunos.A pesquisa fundamenta-se na crescente presença da IA cognitiva e generativa no contexto educacional e em sua capacidade de personalizar o ensino, oferecer feedback imediato e promover maior autonomia discente. Busca-se compreender se a utilização de assistentes virtuais baseados em linguagem natural melhora os resultados de aprendizagem, reduz desigualdades e apoia o trabalho docente.A metodologia inclui a implementação de um minicurso de Python dividido em grupos experimental (com IA) e de controle (sem IA), com coleta e análise de dados quantitativos e qualitativos. As hipóteses centrais consideram que o grupo assistido por IA apresentará melhor desempenho e engajamento em comparação ao grupo de controle.A relevância científica e social do estudo reside em antecipar e compreender os efeitos da inteligência artificial na educação brasileira, subsidiando políticas públicas e metodologias que garantam o uso ético, eficiente e inclusivo dessas tecnologias em sala de aula. O projeto também contribui para a formação docente inovadora, o desenvolvimento de práticas pedagógicas baseadas em IA e a compreensão crítica dos limites e potencialidades dessas ferramentas na aprendizagem de programação..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (0) / Especialização: (1) / Mestrado acadêmico: (2) / Mestrado profissional: (0) / Doutorado: (2) .
+
+Integrantes: João Gabriel Salvador Paiva - Coordenador / Danyllo Wagner Albuquerque - Integrante / Jesualdo Gomes das Chagas - Integrante / Golbery de Oliveira Chagas Aguiar Rodrigues - Integrante / Gabriel William Ferreira - Integrante / Jhonnata Vieira Virginio - Integrante / Ianna Maria Sodre Ferreira de Sousa - Integrante.
+
+
+
+
+
+
+
+
+Página gerada pelo Sistema Currículo Lattes em 26/08/2026 às 23:29:08
+
+
+
+Somente os dados identificados como públicos pelo autor são apresentados na consulta do seu Currículo Lattes.
+Configuração de privacidade na Plataforma Lattes
+Imprimir Currículo
+
