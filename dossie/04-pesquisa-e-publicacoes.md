@@ -5,8 +5,9 @@ declarada em 20/10/2025. O Lattes é a referência para títulos, anos e papéis
 complementa com contexto.
 
 - **Google Scholar:** https://scholar.google.com/citations?user=PM4PEhAAAAAJ
-  — 8 registros (6 trabalhos distintos), **2 citações**, índice h 1; áreas declaradas: Computação,
-  Inteligência Artificial, Sistemas Distribuídos. Coautor listado: Golbery Rodrigues (IFPB).
+  — 8 registros, com duplicatas e sem os dois trabalhos do SIMPIF; o cruzamento das fontes confirma
+  **8 trabalhos distintos**, **2 citações**, índice h 1; áreas declaradas: Computação, Inteligência
+  Artificial, Sistemas Distribuídos. Coautor listado: Golbery Rodrigues (IFPB).
   (O Lattes ainda registrava 5 trabalhos e 1 citação em 20/10/2025.)
 - **Nome em citações bibliográficas:** `PAIVA, J. G. S.` · `PAIVA, João` · `JGS, Paiva` ·
   `SALVADOR PAIVA, João`.
@@ -34,11 +35,14 @@ de sujeitos e subjetividades; na prática, **LLMs aplicados à educação e à l
 cria técnicas, métodos e ferramentas para melhorar qualidade e produtividade em Engenharia de
 Software com abordagens inteligentes (IA, analytics, big data), com validação experimental em
 projetos reais do VIRTUS e de empresas (https://www.virtus.ufcg.edu.br/intelligent-software-engineering/).
-É dessa linha que saíram os **quatro artigos de 2026 sobre LLMs em Engenharia de Software ágil**
+É dessa linha que saíram **três trabalhos distintos de 2026 sobre LLMs em Engenharia de Software ágil**
 listados abaixo (Scrum e user stories), em coautoria com Mirko Perkusich, Angelo Perkusich, Kyller
 Gorgônio, Danyllo Albuquerque, Emanuel Dantas, Robson Vilar, Ademar França de Sousa Neto e Rohit
 Gheyi — corpo de pesquisadores sênior do VIRTUS/UFCG. Repositórios de material suplementar em
 [05-projetos.md](05-projetos.md).
+
+O dossiê da seleção da Residência confirma as datas, o papel de bolsista nos dois projetos
+Interconecta e os artigos do SIMPIF: [residencia-virtus-selecao-2025.md](fontes/residencia-virtus-selecao-2025.md).
 
 Colaboradores recorrentes (para contextualizar coautorias): Danyllo Wagner Albuquerque,
 Golbery de Oliveira Chagas Aguiar Rodrigues, Jesualdo Gomes das Chagas, Jhonnata Vieira Virginio,
@@ -48,9 +52,9 @@ Ianna Maria Sodré Ferreira de Sousa, Gabriel William Ferreira.
 
 ## Publicações
 
-Fonte: **Google Scholar** (perfil próprio, 8 registros — um deles é entrada duplicada do mesmo
-*preprint* — 2 citações, índice h 1) cruzado com **Lattes**, **SBC OpenLib**, **arXiv** e **Springer**.
-O Lattes só registra 2 das produções — **está desatualizado.**
+Fonte: **Google Scholar** (perfil próprio, 8 registros, com duplicatas e sem os dois SIMPIF — 2
+citações, índice h 1) cruzado com **Lattes**, **SBC OpenLib**, **arXiv**, **Springer** e o dossiê da
+seleção da Residência. O Lattes só registra 2 das produções — **está desatualizado.**
 
 ### Conferência internacional (Springer LNBIP)
 
@@ -96,7 +100,7 @@ O Lattes só registra 2 das produções — **está desatualizado.**
    *Avaliação do Suporte de Grandes Modelos de Linguagem no Ensino de Programação: Um Relato de
    Experiência.* In: WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (**WEI**), 33., 2025, Maceió/AL. Anais.
    Porto Alegre: **Sociedade Brasileira de Computação**, 2025, p. 982–993. ISSN 2595-6175.
-   DOI: https://doi.org/10.5753/wei.2025.8709 — **primeiro autor.**
+   DOI: https://doi.org/10.5753/wei.2025.8709 — **primeiro autor; Qualis A4.**
    > Resultado principal (útil em entrevista): o grupo com acesso orientado a LLMs teve desempenho
    > superior em **todas as etapas** da formação, com mais autonomia, fluência técnica e segurança na
    > apresentação das soluções — desde que houvesse orientação didática docente. Análise combinou
@@ -108,34 +112,49 @@ O Lattes só registra 2 das produções — **está desatualizado.**
    *IA burlada: elaboração de prompts maliciosos no ChatGPT e seus impactos para a sociedade.*
    In: **V Workshop sobre as Implicações da Computação na Sociedade (WICS)**, 2024, Brasília — parte do
    **XLIV Congresso da SBC (CSBC 2024)**, p. 132. DOI: https://doi.org/10.5753/wics.2024.2855
-   — **primeiro autor**; registra **1 citação**.
+   — **primeiro autor; Qualis B4 (CSBC)**; registra **1 citação**.
    > Tema: como prompts maliciosos no ChatGPT podem induzir comportamento danoso, desinformação e
    > discriminação, e que medidas mitigam esses riscos. Pesquisa qualitativa sobre respostas do modelo.
 
-### Trabalhos com comprovante no repositório (não listados no Lattes)
+### Resumos expandidos em simpósios
+
+1. RODRIGUES, Golbery; ALBUQUERQUE, Danyllo; FREITAS, Vanessa Lopes de; JALES, Andressa Kaline
+   Ferreira Araújo; CHAGAS, Jesualdo Gomes das; **PAIVA, João Gabriel Salvador**.
+   *Identificação de padrões e anomalias em textos produzidos pelo ChatGPT sob o ponto de vista da
+   corretude gramatical.* **5º SIMPIF**, 22–24 nov. 2023, Cabedelo – PB. **Sexto autor**.
+   **Premiado como o melhor Resumo Expandido da modalidade Iniciação Científica e Tecnológica —
+   Tecnologia da Informação e Comunicação**; certificado emitido em 12/01/2024.
+
+2. RODRIGUES, Golbery; ALBUQUERQUE, Danyllo; **PAIVA, João Gabriel Salvador**; FERREIRA, Gabriel
+   William; VIRGINIO, Jhonnata Vieira; SOUSA, Ianna Maria Sodré Ferreira de.
+   *Aprendizagem Assistida por IA: Comparando Estratégias de Ensino de Python em Sala de Aula.*
+   Resumo expandido, modalidade Iniciação Científica e Tecnológica. **6º SIMPIF**, 23–25 jul. 2025,
+   João Pessoa – PB. **Terceiro autor**.
+
+### Trabalhos com comprovante no repositório
 
 | Ano | Evento | Resultado |
 | --- | --- | --- |
-| 2023 | **6º SIMPIF** — Simpósio de Inovação e Pós-Graduação dos Institutos Federais | **Melhor Resumo Expandido** na modalidade Iniciação Científica e Tecnológica — TIC |
+| 2023 | **5º SIMPIF** — Simpósio de Inovação e Pós-Graduação dos Institutos Federais | **Melhor Resumo Expandido** na modalidade Iniciação Científica e Tecnológica — TIC |
 | 2023 | **CONEDU** — Congresso Nacional de Educação | Artigo produzido e apresentado |
+| 2025 | **6º SIMPIF** — Simpósio de Pesquisa, Inovação e Pós-Graduação do IFPB | Resumo expandido produzido e apresentado |
 
 PDFs: `src/documents/artigo-simpif-2023.pdf`, `src/documents/artigo-conedu-2023.pdf`,
 `src/documents/SIMPIF-2023.pdf`, `src/documents/CONEDU-2023.pdf`.
 
-> **Contagem de artigos:** o verificável hoje é **6 trabalhos distintos** — 1 conferência
-> internacional (Springer/XP 2026), 2 *preprints* no arXiv, 3 em anais nacionais (WEI, WICS, CONEDU)
-> — mais o resumo expandido premiado no SIMPIF 2023. O portfólio fala em "+10 artigos" e o LinkedIn
-> em "+7": só use esses números se houver trabalhos fora do Scholar e do Lattes.
-> Formulação segura para o CV: *"6 artigos, incluindo publicação em conferência internacional
-> (Springer LNBIP / XP 2026) e premiação no SIMPIF 2023"*.
-> ⚠ **O Lattes precisa ser atualizado** — faltam o XP 2026, os dois *preprints* e o CONEDU.
+> **Contagem de publicações:** são **8 trabalhos distintos** — XP 2026, arXiv:2607.00049,
+> arXiv:2607.00048, WEI 2025, WICS 2024, CONEDU 2023, SIMPIF 2023 e SIMPIF 2025. O Google Scholar
+> mostra 8 registros, mas com duplicatas e sem os dois SIMPIF; o Lattes registra só 2.
+> ⚠ **Falta cadastrar 6 no Lattes:** XP 2026, os 2 *preprints*, CONEDU 2023, SIMPIF 2023 e
+> SIMPIF 2025. O portfólio fala em "+10 artigos" e o LinkedIn em "+7", números que seguem não
+> verificáveis.
 
 ---
 
 ## Projetos de pesquisa (Lattes)
 
 ### Aprendizagem assistida por IA: comparando estratégias de ensino de Python em sala de aula
-**2024 – 2025 · Concluído · papel: COORDENADOR**
+**30/07/2024 – 31/12/2024 · Concluído · papel confirmado: BOLSISTA**
 
 Investiga o impacto da IA generativa no ensino de programação em Python, comparando turmas que usam
 IA com turmas tradicionais em desempenho, engajamento e aprendizagem. Metodologia: minicurso de
@@ -143,15 +162,15 @@ Python dividido em **grupo experimental (com IA)** e **grupo de controle (sem IA
 análise de dados quantitativos e qualitativos. Objetivo: verificar se assistentes baseados em
 linguagem natural melhoram resultados, reduzem desigualdades e apoiam o trabalho docente.
 
-- Equipe com **1 especialização, 2 mestrados acadêmicos e 2 doutorados** entre os integrantes — eu
-  como coordenador, ainda no ensino técnico. **Esse é um dos pontos mais fortes do CV acadêmico.**
+- O dossiê da seleção confirma a participação como **bolsista**; o Lattes/LinkedIn também descrevem
+  atuação de liderança discente durante a execução.
 - Execução em 3 turmas (IFPB e ECIT Bráulio Maia Júnior), ~60 alunos formados, ~30 certificados.
 - Dados públicos:
   https://github.com/Ilusinusmate/Projeto-de-Pesquisa-Apredizagem-Assistida-por-IA
 - Publicação associada: artigo do **WEI 2025**.
 
 ### Identificação de padrões e anomalias em textos produzidos pelo ChatGPT sob o ponto de vista da corretude gramatical
-**2023 · Concluído · papel: COORDENADOR**
+**03/05/2023 – 31/12/2023 · Concluído · papel confirmado: BOLSISTA**
 
 Avaliação da qualidade gramatical de textos gerados pelo ChatGPT: identificação e classificação dos
 erros mais recorrentes, proposta de **métricas de avaliação** e elaboração de um catálogo de boas e
@@ -159,7 +178,8 @@ más práticas linguísticas para geração automática de texto. Metodologia: r
 literatura, coleta e análise de textos gerados e desenvolvimento de métricas gramaticais
 quantitativas e qualitativas.
 
-- Equipe com **2 especializações, 2 mestrados e 3 doutorados**; eu como coordenador.
+- O dossiê da seleção confirma a participação como **bolsista**; o LinkedIn descreve liderança do
+  grupo docente durante o experimento.
 
 ---
 
@@ -167,10 +187,10 @@ quantitativas e qualitativas.
 
 | Período | Projeto | Papel |
 | --- | --- | --- |
-| 2025 – atual | **DesmascarAI: Imprensa colegial com checagem inteligente na era digital** — pensamento crítico e autonomia informacional via imprensa colegial, checagem de fatos e uso ético de IA; parceria com Mídia IFNEWS e News in Action | Integrante |
-| 2024 | **Desvendando o ChatGPT: Ferramentas de IA para Estudantes do Ensino Médio** — capacitação de estudantes de escolas públicas em vulnerabilidade socioeconômica no uso de LLMs; alfabetização digital e uso ético; vinculado ao LAPLIN; ODS 4 e 10 | Integrante |
-| 2023 | **IFNEWS: Performance e proficiência através do trabalho de imprensa colegial** — oficinas de gêneros jornalísticos, produção de textos e cobertura de eventos acadêmicos | Integrante |
-| 2023 | **Redação do Enem a partir de textos jornalísticos** — método escrita-reescrita com estudantes da ECIT Prof. Bráulio Maia Júnior; ODS 4 e 10 | Integrante |
+| 24/02/2025 – 22/10/2025 · Edital 01/2025 – Fluxo Contínuo | **DesmascarAI: Imprensa colegial com checagem inteligente na era digital** — pensamento crítico, checagem de fatos e uso ético de IA; parceria com Mídia IFNEWS e News in Action | Voluntário, 8 h/semana |
+| 02/09/2024 – 31/01/2025 · Edital 07/2024 – PROBEXC | **Desvendando o ChatGPT: Ferramentas de IA para Estudantes do Ensino Médio** — capacitação de estudantes de escolas públicas em vulnerabilidade socioeconômica no uso de LLMs; alfabetização digital e uso ético; vinculado ao LAPLIN; ODS 4 e 10 | Voluntário, 8 h/semana |
+| 31/07/2023 – 20/12/2023 · Edital 01/2023 – Fluxo Contínuo | **IFNEWS: Performance e proficiência através do trabalho de imprensa colegial** — oficinas de gêneros jornalísticos, produção de textos e cobertura de eventos acadêmicos | Voluntário, 8 h/semana |
+| 12/06/2023 – 15/12/2023 · Edital 03/2023 – PROBEXC | **Redação do Enem a partir de textos jornalísticos** — método escrita-reescrita com estudantes da ECIT Prof. Bráulio Maia Júnior; ODS 4 e 10 | Voluntário, 8 h/semana |
 
 Coordenador dos projetos de extensão: prof. Golbery de Oliveira Chagas Aguiar Rodrigues.
 
@@ -195,5 +215,5 @@ metodologia experimental, análise estatística em Python.
 
 ## Eventos e comunidade
 
-- WEI 2025, WICS 2024, 6º SIMPIF (2023), CONEDU (2023), Congresso da SBC.
+- WEI 2025, WICS 2024, 5º SIMPIF (2023), 6º SIMPIF (2025), CONEDU (2023), Congresso da SBC.
 - Maratona de Programação da SBC e OBI pela UFCG.

@@ -3,13 +3,20 @@
 Ordem: mais recente primeiro. `⚠` marca datas divergentes entre fontes — ver
 [09-fontes-e-lacunas.md](09-fontes-e-lacunas.md) antes de fixar no CV.
 
+As datas e descrições abaixo vêm do **LinkedIn (perfil completo, extraído em 27/08/2026)**, que é
+hoje a fonte mais detalhada e atualizada de experiência; o currículo em PDF (out/2025) divergia em
+várias delas e as divergências ficaram registradas.
+
 ---
 
 ## Logon Informática — Mobile & Backend Developer *(atual)*
 
-- **Período:** ⚠ 01/2025 – atual (currículo em PDF) · o LinkedIn indexa dois vínculos na empresa
-  (*Mobile Developer* e, depois, *Mobile & Backend Developer* como cargo atual).
-- **Local:** João Pessoa – PB (empresa sediada em João Pessoa; atuação remota/híbrida a confirmar).
+- **Período na empresa:** **05/2025 – atual** (1 ano e 4 meses), em **dois vínculos** e com uma
+  **promoção** no meio:
+  - *Mobile Developer* (meio período, Campina Grande – PB): **mai/2025 – nov/2025**;
+  - *Mobile & Backend Developer* (terceirizado, João Pessoa – PB): **out/2025 – atual**.
+  ⚠ O currículo em PDF diz `01/2025 – atual` — o LinkedIn é mais granular e provavelmente correto.
+- **Local:** remoto, empresa sediada em João Pessoa – PB.
 - **Contexto da empresa:** software house com mais de 39 anos de mercado, com produtos próprios e
   soluções para o setor público nas áreas de educação, gestão, administração, sistema funerário e
   meio ambiente.
@@ -26,16 +33,23 @@ Ordem: mais recente primeiro. `⚠` marca datas divergentes entre fontes — ver
 - Testes, **CI/CD** e publicação nas lojas **Android e iOS**.
 - Elaboração de documentação e planejamento técnico.
 
-**Stack:** Flutter, Dart, Python, microsserviços, CI/CD, logging, lojas Android/iOS.
+**Stack:** Flutter, Dart, FastAPI, Python, **RabbitMQ**, **MinIO**, iOS/Android, microsserviços,
+CI/CD, logging.
 
-**Números para o CV:** 50 mil+ usuários ativos; único dev do app desde a v3; liderança de time mobile.
+**Projeto associado:** **pdfa-parser** (biblioteca open-source de PDF/A, mar/2026 – atual) — ver
+[05-projetos.md](05-projetos.md).
+
+**Números para o CV:** 50 mil+ usuários ativos; único dev do app desde a v3; liderança de time mobile;
+promovido de Mobile Developer a Mobile & Backend Developer em ~6 meses.
 
 ---
 
 ## VIRTUS-CC (UFCG) — Residente em TIC
 
-- **Período:** ⚠ LinkedIn indexa *Nov 2025 – atual*; o portfólio em slides (out/2025) descreve
-  programa de 1 ano, com 240h de capacitação seguidas de ~6 meses de imersão prática.
+- **Período:** **nov/2025 – atual** (LinkedIn). Programa de **1 ano**: a etapa de **capacitação
+  (240h) terminou em junho de 2026** e a **etapa prática segue até setembro de 2026**.
+- **Certificados:** *Residência em TIC* emitido pela **EMBRAPII** em mai/2026 + certificado de
+  conclusão da capacitação.
 - **Local:** Campina Grande – PB.
 - **Contexto:** Residência em TIC do programa Softex, executada pelo VIRTUS-CC — centro EMBRAPII de
   desenvolvimento inteligente para a indústria, órgão suplementar da UFCG.
@@ -52,6 +66,9 @@ Ordem: mais recente primeiro. `⚠` marca datas divergentes entre fontes — ver
   problema, usuário, proposta de valor e modelo de negócio, apresentado em formato de pitch
   (com réplica e tréplica) para banca do **Sebrae Tech** no VIRTUS-CC — **medalha de bronze**.
 - Ponte entre ambiente acadêmico e setor produtivo, com desenvolvimento técnico e comportamental.
+- **Mentoria:** mentor Arthur Oliveira (fase prática) e gestor Danyllo Albuquerque.
+- **Competências registradas no LinkedIn para o vínculo:** arquitetura de software, aprendizado de
+  máquina, IoT, **Scrum**, **metodologias ágeis** e práticas de Engenharia de Software.
 - **Pesquisa no grupo ISE (Intelligent Software Engineering) do VIRTUS** — avaliação empírica de LLMs
   aplicados a Engenharia de Software ágil, que rendeu em 2026 **1 artigo em conferência internacional
   (Springer LNBIP / XP 2026, sobre qualidade de user stories) e 2 preprints no arXiv** sobre acurácia
@@ -64,9 +81,11 @@ qualidade de requisitos.
 
 ---
 
-## Empório Sertanejo — Backend Developer / Desenvolvedor Full-stack
+## Empório Sertanejo — Desenvolvedor Full-stack (terceirizado)
 
-- **Período:** 06/2023 – 10/2025 (currículo em PDF).
+- **Período:** **12/2023 – 09/2025** (1 ano e 10 meses, LinkedIn) · ⚠ o currículo em PDF diz
+  `06/2023 – 10/2025`.
+- **Local:** João Pessoa – PB, híbrido.
 - **Modelo:** contratado para construir a plataforma da empresa; **liderança de equipe de 3 pessoas**.
 
 **O que fiz:**
@@ -82,10 +101,12 @@ qualidade de requisitos.
 **Stack:** Python, Django, PostgreSQL, HTML/CSS/JavaScript, Docker, AWS (S3, CloudFront), Railway,
 Pipedream, Mailgun, Grafana, DNS.
 
-**Números para o CV:** time de 3 pessoas liderado; 3 produtos em um só sistema (ERP + POS +
-e-commerce); ~2 anos e 4 meses de relacionamento com o cliente.
+**DevOps e qualidade (descrição do LinkedIn):** **GitHub Actions** para CI/CD, **CronJobs** para
+automações, **OpenTelemetry** para monitoramento, **Grafana**, e testes automatizados com **PyTest**
+e *mocks*.
 
-**Referência declarada no CV:** Everton Farias — +55 83 9103-2302.
+**Números para o CV:** time de 3 pessoas liderado; 3 produtos em um só sistema (ERP + POS +
+e-commerce); ~2 anos de relacionamento com o cliente.
 
 ---
 
@@ -107,9 +128,10 @@ Detalhes do projeto em [04-pesquisa-e-publicacoes.md](04-pesquisa-e-publicacoes.
 
 ---
 
-## Animalesko — Backend Developer (voluntário)
+## Animalesko — Desenvolvedor Backend (voluntário/temporário)
 
-- **Período:** ⚠ 01/2024 – 08/2024 (currículo em PDF) · *Apr 2024 – Sep 2024, remoto* (LinkedIn).
+- **Período:** **04/2024 – 09/2024** (6 meses, remoto, LinkedIn) · ⚠ o currículo em PDF diz
+  `01/2024 – 08/2024`.
 - **Contexto:** startup beneficente voltada à causa dos animais de rua.
 
 **O que fiz:**
@@ -148,10 +170,13 @@ Detalhes do projeto em [04-pesquisa-e-publicacoes.md](04-pesquisa-e-publicacoes.
 | Desde | Até | Vínculo | Papel |
 | --- | --- | --- | --- |
 | 2018 | — | — | Início em programação (C), motivado por OBI/OPI |
-| 2022 | 2024 | IFPB – CG | Técnico; 6 projetos acadêmicos; LAPLIN |
-| 06/2023 | 10/2025 | Empório Sertanejo | Backend/Full-stack, líder de 3 devs |
-| 12/2023 | 12/2024 | IFPB – CG | Professor pesquisador |
-| 01/2024 ⚠ | 08/2024 ⚠ | Animalesko | Backend voluntário |
-| 2025 | — | UFCG | Graduação em Ciência da Computação |
-| 01/2025 ⚠ | atual | Logon Informática | Mobile & Backend, líder do time mobile |
-| 11/2025 ⚠ | atual | VIRTUS-CC (UFCG) | Residente em TIC (1º lugar no processo seletivo) |
+| 03/2022 | 12/2024 | IFPB – CG | Técnico Integrado em Química + pesquisa e extensão |
+| 01/2023 | atual | CNPq / LAPLIN – IFPB | Artificial Intelligence Researcher (3 anos e 8 meses) |
+| 12/2023 | 09/2025 | Empório Sertanejo | Full-stack, líder de 3 devs |
+| 04/2024 | 09/2024 | Animalesko | Backend voluntário |
+| 04/2024 | 02/2025 | IFPB – CG | Professor pesquisador (projeto de IA no ensino) |
+| 01/2025 | 2030 (prev.) | UFCG | Graduação em Ciência da Computação |
+| 05/2025 | 11/2025 | Logon Informática | Mobile Developer (meio período) |
+| 10/2025 | atual | Logon Informática | Mobile & Backend, líder do time mobile |
+| 11/2025 | 09/2026 | VIRTUS-CC (UFCG) | Residente em TIC (1º lugar no processo seletivo) |
+| 03/2026 | atual | open source | pdfa-parser (PyPI) |

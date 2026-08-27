@@ -11,51 +11,51 @@
 | GitHub (perfil + 28 repos) | https://github.com/Ilusinusmate | ✅ API pública e READMEs |
 | Portfólio publicado | https://ilusinusmate.github.io/Ilusinusmate/ | ✅ conteúdo do `index.html` deste repo |
 | Conversa compartilhada (ChatGPT) | https://chatgpt.com/share/6a8f9edb-6618-83e9-9fb8-6a94596e3048 | ✅ textos sobre PantryVision, WhatsHome e a formação da Residência |
-| LinkedIn | https://www.linkedin.com/in/joao-gabriel-salvador-paiva-805283286 | ⚠ **parcial** — o acesso direto cai no *authwall*; usei apenas trechos públicos indexados por busca |
+| LinkedIn | https://www.linkedin.com/in/joao-gabriel-salvador-paiva-805283286 | ⚠ **perfil principal observado diretamente** em sessão autenticada em 27/08/2026; algumas páginas `/details/` retornaram versão pública limitada, portanto recomendações, organizações e voluntariado não foram integralmente observados |
 | Google Scholar | https://scholar.google.com/citations?user=PM4PEhAAAAAJ | ✅ lista completa (8 registros, 2 citações, índice h 1) — revelou os 4 artigos do ISE/VIRTUS |
 | SBC OpenLib (SOL) | https://sol.sbc.org.br | ✅ citações completas e DOIs do WEI 2025 e WICS 2024 |
 | arXiv | https://arxiv.org/abs/2607.00048 e /2607.00049 | ✅ autoria, datas e resumos dos *preprints* |
 | Springer / researchr (XP 2026) | https://link.springer.com/book/10.1007/978-3-032-22375-3 | ✅ volume, páginas e autoria do artigo do XP 2026 |
+| Dossiê da seleção da Residência | [fontes/residencia-virtus-selecao-2025.md](fontes/residencia-virtus-selecao-2025.md) | ✅ fonte autoritativa para seleção, projetos Interconecta, extensão e trabalhos do SIMPIF |
 
-## Divergências a resolver
+## Divergências preservadas
 
-1. **Início na Logon Informática** — CV: `01/2025`. LinkedIn indexado: cargo atual desde
-   `Oct 2025`, com um vínculo anterior de *Mobile Developer* na mesma empresa. Provável promoção de
-   cargo em out/2025. **Definir a data de entrada e a data da mudança de cargo.**
-2. **Residência em TIC** — LinkedIn indexado: `Nov 2025 – atual`. O portfólio (out/2025) já descrevia
-   a residência, e a conversa do ChatGPT fala de capacitação encerrada em junho com etapa prática até
-   outubro. **Confirmar mês de início e situação atual (concluída ou em andamento).**
-3. **Animalesko** — CV: `01/2024 – 08/2024`. LinkedIn: `Apr 2024 – Sep 2024`. **Escolher uma versão.**
-4. **Empório Sertanejo** — CV: até `10/2025`; o portfólio ainda o lista como projeto em andamento.
-   **Confirmar se houve encerramento ou manutenção pontual.**
-5. **Prêmio do SIMPIF 2023** — Lattes: "**Melhor Resumo Expandido**". Portfólio/CV: "Melhor Artigo".
-   Recomendo padronizar pela redação do Lattes.
-6. **Quantidade de artigos** — verificável: **6 trabalhos distintos** (Scholar + Lattes + SOL + arXiv +
-   Springer). O Lattes só registra 2 — **falta cadastrar XP 2026, os dois preprints e o CONEDU**.
-   Portfólio: "+10 artigos"; LinkedIn: "+7". **Atualize o Lattes** antes de usar números maiores.
-7. **Curso técnico** — o Lattes registra **Técnico Integrado em Química (2022–2025)**, enquanto o CV e
-   o portfólio dão a entender formação técnica em computação. O texto do próprio Lattes explica que a
-   computação veio de olimpíadas, pesquisa, extensão e minicursos. **Manter essa redação no CV** para
-   evitar contradição em checagem de antecedentes.
-8. **OPI** — CV: "campeão paraibano 2023–2024". Lattes: campeão em 2023 e vice em Avançado Júnior em
-   2023. **Confirmar se houve resultado em 2024.**
-9. **Telefone** — CV e portfólio: `+55 (83) 98863-6734`. O link do WhatsApp em `src/script.js` aponta
-   para `558398863734` (um dígito a menos que `5583988636734`, usado no `index.html`).
-   **Um dos dois links está errado** — vale corrigir no portfólio.
+1. **Curso técnico** — o LinkedIn registra **Técnico Integrado em Química (mar/2022–dez/2024)**,
+   enquanto o Lattes registra **2022–2025**. O texto do próprio Lattes explica que a computação veio
+   de olimpíadas, pesquisa, extensão e minicursos; manter essa redação para evitar contradição.
+2. **Idiomas** — o LinkedIn declara inglês avançado e Libras básico; o Lattes declara que inglês
+   "compreende, fala, lê e escreve bem" e Libras "razoavelmente".
+3. **OPI** — o CV cita "campeão paraibano 2023–2024", enquanto o Lattes registra campeão em 2023 e
+   vice em Avançado Júnior em 2023; o resultado de 2024 permanece a confirmar.
+4. **OPI Avançado Júnior** — a prata de 2023 e o ouro de 2026 provavelmente são edições distintas,
+   mas falta confirmar se são edições diferentes ou correção de registro.
+5. **Telefone** — CV e portfólio: `+55 (83) 98863-6734`; o link do WhatsApp em `src/script.js` aponta
+   para `558398863734`, um dígito a menos que `5583988636734` usado no `index.html`. A divergência
+   permanece fora do escopo deste dossiê, pois os arquivos do portfólio não foram alterados.
+
+## Lacunas resolvidas nesta revisão
+
+- Datas dos vínculos na Logon, Empório Sertanejo, Animalesko e Residência: observadas no LinkedIn.
+- Datas e papel de bolsista dos dois projetos Interconecta, além das datas dos quatro projetos de
+  extensão: confirmados no dossiê da seleção da Residência.
+- Redação oficial do prêmio do SIMPIF: confirmada pelo certificado e reconciliada com "Melhor Artigo
+  de Tecnologia - SIMPIF" no LinkedIn.
+- Contagem: **8 trabalhos distintos**; o Lattes registra só 2, portanto faltam cadastrar 6:
+  XP 2026, os dois *preprints*, CONEDU 2023, SIMPIF 2023 e SIMPIF 2025.
 
 ## Lacunas de coleta
 
-- **LinkedIn completo**: descrições integrais de cada cargo, lista completa de skills, recomendações e
-  posts. Para preencher: exportar os dados do LinkedIn (*Configurações → Privacidade de dados →
-  Obtenha uma cópia dos seus dados*) ou colar o texto do perfil aqui.
-- **Outros artigos além dos 6 do Scholar**: se os "+10 artigos" do portfólio incluem trabalhos fora do
-  Scholar e do Lattes (resumos, anáis locais, submissões em avaliação), me mande título, evento e ano.
-- **Olimpíadas**: tenho OPI 2023 (campeão), OPI Avançado Júnior 2023 (vice) e OBI (finalista). Faltam:
-  **ano e fase da OBI**, o suposto resultado de **2024**, e as "+5 medalhas" — quais competições e anos
-  compõem esse número (Canguru, OBMEP, maratonas, ONHB?).
+- **LinkedIn em páginas `/details/`**: recomendações, organizações e voluntariado não foram
+  integralmente observados; as telas públicas limitadas não permitem completar essas listas.
+- **Matéria de Ernani Baracho sobre o prêmio do SIMPIF**: não localizada; buscas automatizadas no
+  Google e DuckDuckGo foram bloqueadas, e a busca no portal do IFPB não encontrou a matéria. **A
+  confirmar; o João afirma que existe.**
+- **Composição completa das "+5 medalhas"**: ainda não documentada.
+- **Licença e detalhes adicionais do Corretor ONHB**: a confirmar.
+- **Outros artigos**: os números "+10 artigos" do portfólio e "+7" do LinkedIn seguem não verificáveis.
 - **Repositórios de pesquisa recentes** (`enemLLMWEI2026`, `smjss26`, `surveyxp26`,
-  `llm-us-quality-xp26`, `softcomLLMPMP2026`, `paper_scrum`): confirmar se você é autor, coautor ou
-  apenas mantenedor do material, e o status de cada submissão (submetido, aceito, publicado).
+  `llm-us-quality-xp26`, `softcomLLMPMP2026`, `paper_scrum`): confirmar se João é autor, coautor ou
+  apenas mantenedor, e o status de cada submissão.
 - **Cangaço Dev**: período, papel e entregas.
 - **Central da Escola**: se pode citar números além dos 50 mil usuários (downloads, avaliação nas
   lojas, volume de requisições).

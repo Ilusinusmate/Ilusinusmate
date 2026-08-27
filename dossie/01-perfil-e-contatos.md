@@ -83,8 +83,9 @@
 > grupo discente do projeto "Aprendizagem assistida por IA", que formou cerca de 60 alunos em um
 > experimento A/B sobre ensino de programação com e sem apoio de IA. Sou membro do LAPLIN
 > (Laboratório de Análise e Processamento de Linguagem Natural), com artigos apresentados em eventos
-> nacionais, incluindo o prêmio de Melhor Resumo Expandido em Tecnologia da Informação e Comunicação
-> no SIMPIF 2023. Hoje pesquiso no grupo ISE (Intelligent Software Engineering) do VIRTUS/UFCG,
+> nacionais, incluindo o prêmio de melhor **Resumo Expandido da modalidade Iniciação Científica e
+> Tecnológica — Tecnologia da Informação e Comunicação** no 5º SIMPIF 2023. Hoje pesquiso no grupo
+> ISE (Intelligent Software Engineering) do VIRTUS/UFCG,
 > avaliando empiricamente LLMs aplicados à Engenharia de Software — em 2026 fui coautor de artigo no
 > XP 2026 (Springer LNBIP) sobre qualidade de user stories e de dois preprints no arXiv sobre
 > acurácia de LLMs em questões de certificação Scrum. Em competição, sou campeão paraibano da

@@ -45,8 +45,16 @@ Bullets já no formato "ação + escopo + resultado", prontos para copiar. Marca
   IFPB e de escola pública parceira.
 - `[ACAD]` `[IA]` Coordenei pesquisa sobre corretude gramatical de textos gerados por LLM, propondo
   métricas de avaliação e um catálogo de boas e más práticas.
+- `[ACAD]` Fui bolsista nos projetos **Interconecta** de **03/05/2023 a 31/12/2023** e de
+  **30/07/2024 a 31/12/2024**, conforme o dossiê da seleção da Residência.
 - `[ACAD]` Publiquei como **primeiro autor** no WEI 2025 (Workshop sobre Educação em Computação) e no
-  WICS 2024, e recebi o prêmio de melhor trabalho em TIC no SIMPIF 2023.
+  WICS 2024, e recebi o prêmio de **melhor Resumo Expandido da modalidade Iniciação Científica e
+  Tecnológica — Tecnologia da Informação e Comunicação** no 5º SIMPIF 2023 (dossiê da seleção da
+  Residência).
+- `[ACAD]` Participei como voluntário, **8 h/semana**, em quatro projetos de extensão do IFPB:
+  Redação do Enem (Edital 03/2023, 12/06/2023–15/12/2023), IFNEWS (Edital 01/2023, 31/07/2023–
+  20/12/2023), Desvendando o ChatGPT (Edital 07/2024, 02/09/2024–31/01/2025) e DesmascarAI
+  (Edital 01/2025, 24/02/2025–22/10/2025).
 
 ## Projetos próprios
 
@@ -54,11 +62,13 @@ Bullets já no formato "ação + escopo + resultado", prontos para copiar. Marca
   semântica: FastAPI + WebSocket, biblioteca de NLP própria com spaCy/NumPy, fila assíncrona e
   otimizações de compressão de vetores e paralelismo.
 - `[BACK]` Publiquei no PyPI a biblioteca **pdfa-parser**, que converte PDFs para PDF/A com
-  GhostScript e valida conformidade com VeraPDF, com APIs síncrona e assíncrona, CLI e padrão Adapter.
+  GhostScript e valida conformidade com VeraPDF, com instalação zero-config, APIs síncrona e
+  assíncrona, CLI e validação PDF/A-1b, 2b e 3b; licença declarada: GPL-3.0 (LinkedIn).
 - `[MOB]` Construí o **TodoApp** em Flutter aplicando Clean Code, SOLID e Bloc, rodando em Android e
   Linux Desktop.
-- `[MOB]` `[FULL]` Entreguei o **corretor da ONHB** (Electron e depois Flutter) a pedido de
-  professores do IFPB, reduzindo o esforço manual de correção das provas da olimpíada.
+- `[MOB]` `[FULL]` Entreguei o **Corretor ONHB** em Electron para Linux e Windows, construído sob
+  demanda de professores do IFPB, aberto a alterações e usado por mais de 30 equipes; licença e
+  detalhes adicionais a confirmar (LinkedIn).
 - `[FULL]` `[INFRA]` Publiquei a landing page da Clínica Dra. Daiane de Lima em React/Vercel, com
   domínio no Registro.br e DNS via Cloudflare, focada em captura de leads.
 - `[MOB]` `[FULL]` Desenvolvi o app de agendamento, clientes e estoque da mesma clínica, substituindo
@@ -71,7 +81,8 @@ Bullets já no formato "ação + escopo + resultado", prontos para copiar. Marca
 - `[LID]` Defendi o **WhatsHome** em pitch com réplica e tréplica para banca do Sebrae Tech,
   conquistando medalha de bronze com um modelo de negócio construído em equipe de 4 pessoas.
 - `[ACAD]` Aprovado em **1º lugar** no processo seletivo da Residência em TIC do VIRTUS-CC (centro
-  EMBRAPII ligado à UFCG), com 240h de formação em Engenharia de Software, IoT e Machine Learning.
+  EMBRAPII ligado à UFCG), com **96/100 na prova de títulos** e **100/100 na entrevista** (dossiê da
+  seleção da Residência).
 - `[IA]` `[ACAD]` Coautor (2º autor) de artigo publicado no **XP 2026** (Springer LNBIP v. 578,
   p. 155–174) que comparou **GPT-5, GPT-5-mini e GPT-4** com a ferramenta baseada em regras AQUSA na
   detecção de defeitos em 182 *user stories* industriais, propondo uma estratégia híbrida

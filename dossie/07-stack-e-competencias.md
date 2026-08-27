@@ -31,11 +31,14 @@ evidência; o resto fica como "familiaridade" e não entra em lista de requisito
 | spaCy, NumPy, Pandas | Contratexto (similaridade semântica) e notebooks de pesquisa |
 | Celery | Portfólio em slides |
 | Bloc | Gerência de estado no TodoApp |
+| iOS | Desenvolvimento e publicação do app na Logon |
 
 ## Dados e mensageria
 
-PostgreSQL · SQL em geral · bancos não relacionais (NoSQL) · Redis · RabbitMQ / filas ·
+PostgreSQL · SQL em geral · bancos não relacionais (NoSQL) · Redis · RabbitMQ / filas · MinIO ·
 processamento assíncrono de fila (`nlp_lib` do Contratexto).
+
+O LinkedIn confirma **RabbitMQ** e **MinIO** como competências no vínculo da Logon Informática.
 
 ## Infra, cloud e DevOps
 
@@ -43,16 +46,19 @@ processamento assíncrono de fila (`nlp_lib` do Contratexto).
 | --- | --- |
 | Docker / containers | Empório Sertanejo, ambiente de desenvolvimento |
 | AWS (S3, CloudFront) | Mídia e distribuição do Empório Sertanejo |
-| MinIO | Portfólio em slides |
+| MinIO | Portfólio em slides; competência no vínculo da Logon (LinkedIn) |
 | Railway | Hospedagem do Empório Sertanejo |
 | Vercel | Landing pages (Dra. Daiane, Garaherb) |
 | Cloudflare + Registro.br (DNS) | doutoradaianedelima.com.br |
 | Nginx / Apache | Portfólio em slides |
-| CI/CD | Publicação Android/iOS na Logon; GitHub Actions neste portfólio |
+| CI/CD | Publicação Android/iOS na Logon; GitHub Actions neste portfólio e no Empório Sertanejo |
+| GitHub Actions | CI/CD neste portfólio e no Empório Sertanejo (LinkedIn) |
+| OpenTelemetry | Monitoramento no Empório Sertanejo (LinkedIn) |
+| PyTest / mocks | Testes automatizados no Empório Sertanejo (LinkedIn) |
 | Grafana | Observabilidade no Empório Sertanejo |
 | Keycloak, Dokploy | Portfólio em slides |
 | Pipedream, Mailgun | Automações e e-mail no Empório Sertanejo |
-| CronJobs, Unix/Linux, Git | Uso diário |
+| CronJobs, Unix/Linux, Git | Uso diário; automações no Empório Sertanejo (LinkedIn) |
 | Render | Deploy do Contratexto |
 | PyPI | Publicação da biblioteca pdfa-parser (v1.1.1) |
 
