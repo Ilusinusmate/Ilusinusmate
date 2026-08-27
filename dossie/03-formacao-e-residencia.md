@@ -55,9 +55,9 @@ Residência em TIC ([fonte](fontes/residencia-virtus-selecao-2025.md)).
 
 ## Idiomas
 
-As três fontes usam escalas diferentes para os mesmos idiomas — o CV em PDF (página 2, imagem) é a
-fonte mais generosa e o LinkedIn a mais conservadora. Para candidaturas, o mais seguro é usar a
-coluna do LinkedIn.
+**Use a definição do próprio João, logo abaixo da tabela.** As três fontes públicas usam escalas
+diferentes para os mesmos idiomas e ficam aqui apenas como histórico — nenhuma delas deve ser copiada
+direto para um currículo.
 
 | Idioma | LinkedIn | Lattes | CV em PDF (p.2) |
 | --- | --- | --- | --- |
@@ -75,8 +75,8 @@ coluna do LinkedIn.
   vocabulário de sinais limitado; convívio com familiares surdos. Não é "básico" como consta no
   LinkedIn nem *Professional Working* como consta no CV em PDF.
 - **Português — nativo.**
-- ⚠ **Espanhol — básico / *limited working*.** Só consta no CV em PDF e não foi confirmado pelo
-  usuário.
+- ⚠ **Espanhol — básico / *limited working*.** Só consta no CV em PDF e ainda não foi reafirmado
+  pelo João; use com cautela.
 
 Essa definição foi dada pelo próprio João e é a redação a usar em currículos; as classificações
 divergentes do LinkedIn, Lattes e CV em PDF ficam registradas apenas como histórico.
