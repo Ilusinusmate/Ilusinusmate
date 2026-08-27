@@ -17,6 +17,7 @@ desses blocos, não um texto novo escrito do zero.
 | [07-stack-e-competencias.md](07-stack-e-competencias.md) | Stack técnica com nível e evidência de uso; soft skills |
 | [08-bullets-reutilizaveis.md](08-bullets-reutilizaveis.md) | Bullets já redigidos (formato ação + resultado) para copiar no CV |
 | [09-fontes-e-lacunas.md](09-fontes-e-lacunas.md) | De onde veio cada informação, divergências a resolver e o que falta coletar |
+| [10-faq-respostas.md](10-faq-respostas.md) | Respostas já escritas para perguntas de formulários e entrevistas, com data e idioma |
 | [templates/curriculo-base.md](templates/curriculo-base.md) | Esqueleto de currículo de 1 página para preencher |
 | [templates/checklist-por-vaga.md](templates/checklist-por-vaga.md) | Passo a passo para adaptar o CV a uma vaga específica |
 | [fontes/](fontes) | Cópias brutas das fontes (ex.: texto integral do Currículo Lattes) |
