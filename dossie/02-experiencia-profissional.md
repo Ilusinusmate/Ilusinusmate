@@ -11,11 +11,12 @@ várias delas e as divergências ficaram registradas.
 
 ## Logon Informática — Mobile & Backend Developer *(atual)*
 
-- **Período na empresa:** **05/2025 – atual** (1 ano e 4 meses), em **dois vínculos** e com uma
-  **promoção** no meio:
-  - *Mobile Developer* (meio período, Campina Grande – PB): **mai/2025 – nov/2025**;
+- **Período na empresa:** **01/2025 – atual** (1 ano e 8 meses). João confirmou (27/08/2026) que
+  **atua na empresa desde janeiro de 2025**; o contrato formal foi fechado em maio. Em currículos,
+  **use jan/2025** como data de início.
+  - *Mobile Developer* (meio período, Campina Grande – PB): jan/2025 – nov/2025 (contrato a partir
+    de mai/2025, como registrado no LinkedIn);
   - *Mobile & Backend Developer* (terceirizado, João Pessoa – PB): **out/2025 – atual**.
-  ⚠ O currículo em PDF diz `01/2025 – atual` — o LinkedIn é mais granular e provavelmente correto.
 - **Local:** remoto, empresa sediada em João Pessoa – PB.
 - **Contexto da empresa:** software house com mais de 39 anos de mercado, com produtos próprios e
   soluções para o setor público nas áreas de educação, gestão, administração, sistema funerário e
@@ -176,7 +177,7 @@ Detalhes do projeto em [04-pesquisa-e-publicacoes.md](04-pesquisa-e-publicacoes.
 | 04/2024 | 09/2024 | Animalesko | Backend voluntário |
 | 04/2024 | 02/2025 | IFPB – CG | Professor pesquisador (projeto de IA no ensino) |
 | 01/2025 | 2030 (prev.) | UFCG | Graduação em Ciência da Computação |
-| 05/2025 | 11/2025 | Logon Informática | Mobile Developer (meio período) |
+| 01/2025 | 11/2025 | Logon Informática | Mobile Developer (meio período; contrato desde 05/2025) |
 | 10/2025 | atual | Logon Informática | Mobile & Backend, líder do time mobile |
 | 11/2025 | 09/2026 | VIRTUS-CC (UFCG) | Residente em TIC (1º lugar no processo seletivo) |
 | 03/2026 | atual | open source | pdfa-parser (PyPI) |

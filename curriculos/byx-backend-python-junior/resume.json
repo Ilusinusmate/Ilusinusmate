@@ -18,7 +18,7 @@
     "linkedin": "https://www.linkedin.com/in/joao-gabriel-salvador-paiva-805283286",
     "portfolio": "https://ilusinusmate.github.io/Ilusinusmate/"
   },
-  "resumo": "Desenvolvedor backend com 2 anos de experiência profissional em Python (Django e FastAPI), construindo APIs REST, microsserviços e integrações. Experiência com PostgreSQL, NoSQL, Redis, RabbitMQ, Celery, Docker, AWS e CI/CD, com código testável orientado a Clean Code, SOLID e DDD. Backend de aplicações em produção com mais de 50 mil usuários ativos.",
+  "resumo": "Desenvolvedor backend com quase 3 anos de experiência profissional em Python (Django e FastAPI), construindo APIs REST, microsserviços e integrações. Experiência com PostgreSQL, NoSQL, Redis, RabbitMQ, Celery, Docker, AWS e CI/CD, com código testável orientado a Clean Code, SOLID e DDD. Backend de aplicações em produção com mais de 50 mil usuários ativos.",
   "competencias": {
     "linguagens": ["Python", "Dart", "JavaScript", "TypeScript", "SQL", "C"],
     "backend": ["Django", "Django REST Framework", "FastAPI", "Flask", "APIs REST", "microsserviços", "autenticação", "integrações entre sistemas"],
@@ -32,9 +32,9 @@
     {
       "empresa": "Logon Informática",
       "cargo": "Mobile & Backend Developer",
-      "inicio": "2025-05",
+      "inicio": "2025-01",
       "fim": null,
-      "fonte": "dossie/02-experiencia-profissional.md",
+      "fonte": "dossie/02-experiencia-profissional.md (atuação desde jan/2025; contrato formal em mai/2025)",
       "destaques": [
         "Microsserviços em Python/FastAPI para o app Central da Escola (50 mil+ usuários ativos)",
         "Comunicação assíncrona com RabbitMQ e armazenamento de objetos com MinIO",
@@ -100,7 +100,7 @@
   "idiomas": {
     "portugues": "nativo",
     "ingles": "avançado / profissional (~85% autoavaliado)",
-    "espanhol": "básico",
+    "espanhol": "aprendendo",
     "libras": "intermediário (pós-básico)"
   },
   "premios": [

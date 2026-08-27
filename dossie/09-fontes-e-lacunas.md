@@ -24,8 +24,9 @@
 1. **Curso técnico** — três datas: LinkedIn **mar/2022–dez/2024**, CV em PDF **04/2022–12/2024**
    e Lattes **2022–2025**. O texto do próprio Lattes explica que a computação veio de olimpíadas,
    pesquisa, extensão e minicursos; manter essa redação para evitar contradição.
-2. **Espanhol** — aparece somente no CV em PDF, como *Limited Working Proficiency*, e permanece
-   não confirmado pelo usuário.
+2. **Espanhol** — **resolvido em 27/08/2026**: João está aprendendo e pediu para nunca declarar
+   nível de espanhol em currículos (no máximo "aprendendo"). O *Limited Working Proficiency* do CV
+   em PDF está superado.
 3. **OPI** — o CV cita "campeão paraibano 2023–2024", enquanto o Lattes registra campeão em 2023 e
    vice em Avançado Júnior em 2023; o resultado de 2024 permanece a confirmar.
 4. **OPI Avançado Júnior** — a prata de 2023 e o ouro de 2026 provavelmente são edições distintas,

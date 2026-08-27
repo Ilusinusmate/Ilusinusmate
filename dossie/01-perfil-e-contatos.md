@@ -10,7 +10,7 @@
 | Idioma nativo | Português |
 | Inglês | Avançado / profissional (~85% autoavaliado) |
 | Libras | Intermediário (pós-básico) |
-| Espanhol | ⚠ Básico / *limited working* — somente no CV em PDF |
+| Espanhol | Em aprendizado — nunca declarar nível em currículos (no máximo "aprendendo") |
 
 Detalhes e divergências históricas: [formação e residência — idiomas](03-formacao-e-residencia.md#idiomas).
 

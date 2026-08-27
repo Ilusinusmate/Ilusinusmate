@@ -75,8 +75,9 @@ direto para um currículo.
   vocabulário de sinais limitado; convívio com familiares surdos. Não é "básico" como consta no
   LinkedIn nem *Professional Working* como consta no CV em PDF.
 - **Português — nativo.**
-- ⚠ **Espanhol — básico / *limited working*.** Só consta no CV em PDF e ainda não foi reafirmado
-  pelo João; use com cautela.
+- **Espanhol — em aprendizado.** João (27/08/2026) pediu para **não declarar nível de espanhol em
+  nenhum currículo**: no máximo "aprendendo". O *Limited Working Proficiency* do CV em PDF antigo
+  está superado e não deve ser reutilizado.
 
 Essa definição foi dada pelo próprio João e é a redação a usar em currículos; as classificações
 divergentes do LinkedIn, Lattes e CV em PDF ficam registradas apenas como histórico.

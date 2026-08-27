@@ -12,7 +12,7 @@
 
 | Requisito da vaga | Cobertura | Evidência no dossiê |
 | --- | --- | --- |
-| Python (acadêmico ou profissional) | **Forte** | 2 anos profissionais (Logon, Empório Sertanejo) + pesquisa + docência — `dossie/02`, `dossie/04` |
+| Python (acadêmico ou profissional) | **Forte** | quase 3 anos profissionais (Logon, Empório Sertanejo) + pesquisa + docência — `dossie/02`, `dossie/04` |
 | Django e/ou FastAPI | **Forte (ambos)** | FastAPI na Logon; Django no SaaS do Empório Sertanejo — `dossie/02` |
 | APIs REST | **Forte** | APIs e microsserviços em produção, documentação técnica — `dossie/02` |
 | Bancos relacionais (PostgreSQL/MySQL) | **Forte (PostgreSQL)** | PostgreSQL em ERP/PDV/e-commerce — `dossie/07`. ⚠ MySQL não tem evidência: não foi declarado |
@@ -35,7 +35,7 @@
 | Scrum / Kanban | Tem (Residência, squads) | Incluído |
 | CI/CD | Tem (GitHub Actions) | Incluído |
 | Inglês intermediário/avançado | Tem | "Avançado — leitura, escrita e comunicação profissional" |
-| Espanhol | Autodeclarado no CV antigo | "Básico" (⚠ ainda não reafirmado por João — se preferir, removo) |
+| Espanhol | Em aprendizado | Declarado apenas como "aprendendo", a pedido de João — nenhum nível afirmado |
 | Go | **Sem evidência** | Omitido |
 | Kubernetes / ArgoCD | **Sem evidência** | Omitido |
 | Datadog | **Sem evidência** | Omitido |
@@ -67,8 +67,8 @@ Simulei a leitura que um triador automatizado faria sobre o **texto extraído** 
 
 **Riscos de interpretação identificados e como foram tratados:**
 
-1. *"Sobrequalificado para júnior"* — 2 anos de experiência, liderança de time e publicações podem gerar dúvida sobre encaixe salarial. Mantido, porque é vantagem competitiva real; a carta/mensagem de candidatura deve deixar claro o interesse na vaga júnior e na senioridade da vaga.
-2. *Sobreposição de datas* (Logon desde mai/2025 e Empório até set/2025) — pode parecer inconsistência. É real e está no dossiê; os períodos foram mantidos exatamente como declarados.
+1. *"Sobrequalificado para júnior"* — quase 3 anos de experiência, liderança de time e publicações podem gerar dúvida sobre encaixe salarial. Mantido, porque é vantagem competitiva real; a carta/mensagem de candidatura deve deixar claro o interesse na vaga júnior e na senioridade da vaga.
+2. *Sobreposição de datas* (Logon desde jan/2025 e Empório até set/2025) — pode parecer inconsistência. É real: eram dois vínculos simultâneos, sendo o da Logon inicialmente de meio período. Se perguntarem na entrevista, a resposta é exatamente essa.
 3. *Sem domínio financeiro* — não foi mascarado. Nenhuma menção a fintech, crédito ou pagamentos, para não criar afirmação falsa.
 4. *Bolsista vs. coordenador nos projetos Interconecta* — o dossiê registra divergência entre Lattes e declaração do IFPB; o currículo usa a formulação segura ("bolsista de pesquisa, com liderança do grupo discente").
 5. *"8 trabalhos científicos"* — número conferido e desduplicado a partir do Scholar + Lattes + certificados; o LinkedIn ("+7") e o portfólio ("+10") não foram usados.
@@ -94,7 +94,7 @@ Referências públicas consultadas (backend Python júnior, Brasil, 2025–2026)
 | Vaga remota de Python júnior (LinkedIn) | R$ 2.500 – R$ 4.500 |
 | Dev júnior em fintech de grande porte (Glassdoor/PagBank) | R$ 5.000 – R$ 7.000 |
 
-**O que puxa seu número para cima:** ~2 anos de experiência profissional real, backend em produção com 50 mil+ usuários, liderança de 3 desenvolvedores, cobertura de praticamente todos os requisitos obrigatórios e de 6 dos diferenciais, e a empresa é fintech em São Paulo (base salarial mais alta que a média nacional), com vaga remota.
+**O que puxa seu número para cima:** quase 3 anos de experiência profissional real, backend em produção com 50 mil+ usuários, liderança de 3 desenvolvedores, cobertura de praticamente todos os requisitos obrigatórios e de 6 dos diferenciais, e a empresa é fintech em São Paulo (base salarial mais alta que a média nacional), com vaga remota.
 
 **Recomendação:**
 
@@ -104,7 +104,7 @@ Referências públicas consultadas (backend Python júnior, Brasil, 2025–2026)
 - Se pedirem um número antes de falarem do pacote, responda com faixa ("R$ 5.500 a R$ 6.500, dependendo do pacote de benefícios") em vez de um valor fechado.
 - Se a contratação for **PJ**, multiplique por ~1,3–1,4 para compensar encargos e ausência de benefícios: **R$ 7.800 – R$ 9.000**. Os benefícios anunciados (VR/VA flexível, plano de saúde, odontológico, seguro de vida, VT, Wellhub, Sesc, auxílio-creche, bônus) valem bem, e devem ser considerados na conta se a proposta base vier menor.
 
-## 6. Pendências que só você resolve
+## 6. Decisões confirmadas por João (27/08/2026)
 
-- Confirmar se mantém **espanhol (básico)** no currículo — a vaga lista espanhol como diferencial, mas essa informação só aparece no seu CV antigo em PDF.
-- Confirmar as datas de **Logon** (mai/2025) e **Residência** (nov/2025), que seguem marcadas como a confirmar no dossiê.
+- **Espanhol:** nunca declarar nível em currículo; no máximo "aprendendo". Aplicado — o *Limited Working Proficiency* do CV antigo foi descartado.
+- **Logon:** contar desde **jan/2025** (início da atuação; contrato formal em mai/2025). Aplicado, o que eleva o tempo total de experiência profissional para quase 3 anos.
