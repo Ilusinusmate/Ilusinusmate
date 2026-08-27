@@ -1,0 +1,116 @@
+{
+  "vaga": {
+    "empresa": "byx",
+    "cargo": "Desenvolvedor Backend Python Júnior",
+    "modelo": "Remoto (Brasil); escritório em Vila Olímpia, São Paulo",
+    "url": "https://byx.inhire.app/vagas/bf142bc4-bb08-4120-8539-af552d647287/desenvolvedor-backend-python-junior",
+    "dominio": "Fintech / mercado de crédito",
+    "data_geracao": "2026-08-27"
+  },
+  "candidato": {
+    "nome": "João Gabriel Salvador Paiva",
+    "titulo": "Desenvolvedor Backend Python",
+    "localizacao": "Campina Grande – PB, Brasil",
+    "disponibilidade": "Trabalho remoto",
+    "email": "joaogabrielsalvadorpaiva@gmail.com",
+    "telefone": "+55 (83) 98863-6734",
+    "github": "https://github.com/Ilusinusmate",
+    "linkedin": "https://www.linkedin.com/in/joao-gabriel-salvador-paiva-805283286",
+    "portfolio": "https://ilusinusmate.github.io/Ilusinusmate/"
+  },
+  "resumo": "Desenvolvedor backend com 2 anos de experiência profissional em Python (Django e FastAPI), construindo APIs REST, microsserviços e integrações. Experiência com PostgreSQL, NoSQL, Redis, RabbitMQ, Celery, Docker, AWS e CI/CD, com código testável orientado a Clean Code, SOLID e DDD. Backend de aplicações em produção com mais de 50 mil usuários ativos.",
+  "competencias": {
+    "linguagens": ["Python", "Dart", "JavaScript", "TypeScript", "SQL", "C"],
+    "backend": ["Django", "Django REST Framework", "FastAPI", "Flask", "APIs REST", "microsserviços", "autenticação", "integrações entre sistemas"],
+    "dados": ["PostgreSQL", "SQL", "bancos NoSQL", "Redis", "MinIO", "modelagem de dados"],
+    "mensageria": ["RabbitMQ", "Celery", "filas assíncronas", "CronJobs"],
+    "infraestrutura": ["Docker", "AWS (S3, CloudFront)", "Railway", "Render", "Nginx", "Linux"],
+    "qualidade": ["PyTest", "mocks", "testes automatizados", "code review", "Clean Code", "SOLID", "DRY", "DDD", "design patterns"],
+    "engenharia": ["Git", "GitHub Actions", "CI/CD", "OpenTelemetry", "Grafana", "logging", "documentação técnica", "Scrum", "Kanban", "sistemas distribuídos"]
+  },
+  "experiencia": [
+    {
+      "empresa": "Logon Informática",
+      "cargo": "Mobile & Backend Developer",
+      "inicio": "2025-05",
+      "fim": null,
+      "fonte": "dossie/02-experiencia-profissional.md",
+      "destaques": [
+        "Microsserviços em Python/FastAPI para o app Central da Escola (50 mil+ usuários ativos)",
+        "Comunicação assíncrona com RabbitMQ e armazenamento de objetos com MinIO",
+        "Liderança do setor mobile: code review, releases Android/iOS, logging e CI/CD",
+        "Documentação técnica de APIs e integrações com sistemas de terceiros"
+      ]
+    },
+    {
+      "empresa": "Empório Sertanejo",
+      "cargo": "Desenvolvedor Backend — líder técnico",
+      "inicio": "2023-12",
+      "fim": "2025-09",
+      "fonte": "dossie/02-experiencia-profissional.md",
+      "destaques": [
+        "SaaS em Django/Python integrando ERP, PDV e e-commerce com PostgreSQL e Docker",
+        "Liderança de 3 desenvolvedores, padrões de código e revisões",
+        "PyTest e mocks, CI/CD com GitHub Actions, observabilidade com OpenTelemetry e Grafana",
+        "Integrações e rotinas assíncronas; assets em AWS S3 + CloudFront"
+      ]
+    },
+    {
+      "empresa": "VIRTUS-CC / Softex (UFCG)",
+      "cargo": "Residente em TIC — pesquisador do grupo ISE",
+      "inicio": "2025-11",
+      "fim": null,
+      "fonte": "dossie/03-formacao-e-residencia.md",
+      "destaques": [
+        "1º lugar na seleção (96/100 prova de títulos, 100/100 entrevista)",
+        "Engenharia de Software I e II, metodologias ágeis, IoT, machine learning",
+        "Pesquisa com LLMs aplicados a qualidade de requisitos; artigo no XP 2026 (Springer LNBIP)"
+      ]
+    },
+    {
+      "empresa": "Animalesko",
+      "cargo": "Desenvolvedor Backend (voluntário)",
+      "inicio": "2024-04",
+      "fim": "2024-09",
+      "fonte": "dossie/02-experiencia-profissional.md",
+      "destaques": ["Arquitetura backend do aplicativo com foco em baixo consumo de recursos"]
+    },
+    {
+      "empresa": "IFPB (CNPq / LAPLIN)",
+      "cargo": "Pesquisador bolsista e professor de Python",
+      "inicio": "2023",
+      "fim": "2024",
+      "fonte": "dossie/04-pesquisa-e-publicacoes.md",
+      "destaques": [
+        "Bolsista de pesquisa em NLP, com liderança do grupo discente em dois projetos",
+        "Aulas de Python para ~60 alunos, com experimento sobre aprendizado com e sem IA"
+      ]
+    }
+  ],
+  "projetos": [
+    {"nome": "pdfa-parser", "url": "https://pypi.org/project/pdfa-parser", "stack": ["Python", "GhostScript", "VeraPDF", "Docker"]},
+    {"nome": "Contratexto", "url": "https://contratexto.onrender.com", "stack": ["FastAPI", "WebSocket", "spaCy", "fila assíncrona"]},
+    {"nome": "Corretor ONHB", "url": null, "stack": ["Flutter", "Dart"]}
+  ],
+  "formacao": [
+    {"curso": "Bacharelado em Ciência da Computação", "instituicao": "UFCG", "inicio": "2025-01", "fim_previsto": "2030"},
+    {"curso": "Técnico Integrado", "instituicao": "IFPB", "inicio": "2022-03", "fim": "2024-12"},
+    {"curso": "Python Backend Developer; Flutter Specialist", "instituicao": "DIO", "inicio": null, "fim": null}
+  ],
+  "idiomas": {
+    "portugues": "nativo",
+    "ingles": "avançado / profissional (~85% autoavaliado)",
+    "espanhol": "básico",
+    "libras": "intermediário (pós-básico)"
+  },
+  "premios": [
+    "Melhor resumo expandido — Iniciação Científica e Tecnológica/TIC, 5º SIMPIF (2023)",
+    "Campeão da Olimpíada Paraibana de Informática (2023)",
+    "Ouro na Olimpíada Paraibana de Informática — Avançado Júnior (2026)",
+    "Finalista da Olimpíada Brasileira de Informática (2023)"
+  ],
+  "excluido_por_falta_de_evidencia": [
+    "Go", "Kubernetes", "ArgoCD", "Datadog", "Temporal.io", "Retool", "Camunda", "WireMock",
+    "MongoDB (apenas 'NoSQL' é suportado pelo dossiê)", "MySQL", "experiência em fintech ou meios de pagamento"
+  ]
+}
